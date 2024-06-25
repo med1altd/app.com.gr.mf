@@ -181,6 +181,7 @@
   "Rating": [
     {
       "isInstagramVisisible": true,
+      "InstagramUserName": "med1altd",
       "isRatingVisible": true,
       "RatingUrl": "https://play.google.com/store/apps/details?id=com.gr.mf",
       "isInfoVisible": true,
