@@ -303,7 +303,7 @@
     {
       "Title": "THESSALIA TV",
       "Image": "https://i.ibb.co/K7FMzZq/Thessalia-TV.png",
-      "Video": "https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/thessaliatv.m3u8",
+      "Video": "https://github.com/med1altd/streams/raw/main/channels/thessalia.m3u8",
       "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
       "SKey": null,
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
