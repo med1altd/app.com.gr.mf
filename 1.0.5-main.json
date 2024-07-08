@@ -151,7 +151,7 @@
       "delayAppOpenMainActivity": 600000,
       "delayInterstitialRewardedMainActivity": 120000,
       "delayBannerLiveStreamingActivity": 90000,
-      "delayInterstitialLiveStreamingActivity": 120000,
+      "delayInterstitialLiveStreamingActivity": 90000,
       "delayInterstitialRewardedMoviesInfoActivity": 1200000,
       "delayRewardedMoviesInfoActivity": 30000,
       "delayInterstitialRewardedSeriesInfoActivity": 1200000,
