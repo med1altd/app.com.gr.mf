@@ -1,0 +1,453 @@
+{
+    "Status": [
+        {
+            "isLive": true,
+            "isWorking": true,
+            "isTest": false,
+            "showAds": true,
+            "showBannerAds": false,
+            "showInterstitialAds": true,
+            "showInterstitialAdsLive": true,
+            "showInterstitialAdsVideo": false,
+            "showRewardedInterstitialAds": false,
+            "showAppOpenAds": false,
+            "Casting_App_Id": "70FEFFFA",
+            "enabledCastOption": true,
+            "enabledServerAdRequestsCheck": true,
+            "EPGIntervalTimeInMs": 900000,
+            "RequestNewExpiredAdTime": 1800000,
+            "bypassLockedContent": true,
+            "unlockOption": false,
+            "TVDelay": 240000,
+            "VideoDelay": 240000,
+            "MoviesInfoDelay": 240000,
+            "SeriesInfoDelay": 240000,
+            "MaxDailyAdRequests": 100,
+            "isActivationRequired": true,
+            "promote": false,
+            "promoteTitle": "MovieFlix Update Available",
+            "promoteImageUrl": "https://storage.googleapis.com/pr-newsroom-wp/1/2022/02/SNIK1-1.png",
+            "promoteButtonTitle": "Download Now!",
+            "promoteUrl": "https://www.filmxy.vip/",
+            "promoteNotes": "*Keep in mind that...",
+            "promoteMessage": "",
+            "promoteMethod": "OnPlay",
+            "promoteActivities": "TV, Movies, Series",
+            "MessageOld": "\u039d\u03ad\u03b1 \u0388\u03ba\u03b4\u03bf\u03c3\u03b7 \u03b4\u03b9\u03b1\u03b8\u03ad\u03c3\u03b9\u03bc\u03b7!\n\u03a0\u03b1\u03c1\u03b1\u03ba\u03b1\u03bb\u03bf\u03cd\u03bc\u03b5 \u03c0\u03bf\u03bb\u03cd \u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03c3\u03c4\u03b5 \u03c4\u03b7\u03bd \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03b1 \u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 (v.1.2.0) \u03c4\u03b7\u03c2 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae\u03c2 \"MovieFlix: Live TV %26 Movies\" \u03bc\u03ad\u03c3\u03c9 \u03c4\u03bf\u03c5 Google Play Store, \u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03bd\u03b1 \u03c3\u03c5\u03bd\u03b5\u03c7\u03af\u03c3\u03b5\u03c4\u03b5 \u03bd\u03b1 \u03b1\u03c0\u03bf\u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03b5\u03c4\u03b5 \u03c0\u03bb\u03bf\u03cd\u03c3\u03b9\u03bf \u03c0\u03b5\u03c1\u03b9\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf...",
+            "MessageNewApp": "\u039d\u03ad\u03b1 \u039a\u03c5\u03ba\u03bb\u03bf\u03c6\u03bf\u03c1\u03af\u03b1!\n\u039a\u03b1\u03bb\u03ce\u03c2 \u03bf\u03c1\u03af\u03c3\u03b1\u03c4\u03b5 \u03c3\u03c4\u03b7\u03bd \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03bc\u03b1\u03c2...\n\u0397 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03b8\u03b1 \u03b5\u03bd\u03b5\u03c1\u03b3\u03bf\u03c0\u03bf\u03b9\u03b7\u03b8\u03b5\u03af \u03c3\u03c4\u03b9\u03c2 01/02/2024\n\u039c\u03b5\u03af\u03bd\u03b5\u03c4\u03b5 \u03c3\u03c5\u03bd\u03c4\u03bf\u03bd\u03b9\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9!",
+            "Message": "\u039d\u03ad\u03b1 \u0395\u03bd\u03b7\u03bc\u03ad\u03c1\u03c9\u03c3\u03b7!\n\u039a\u03b1\u03bb\u03ce\u03c2 \u03bf\u03c1\u03af\u03c3\u03b1\u03c4\u03b5 \u03c3\u03c4\u03b7\u03bd \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03bc\u03b1\u03c2...\n\u03a4\u03bf \u03c0\u03b5\u03c1\u03b9\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf \u03b8\u03b1 \u03b3\u03af\u03bd\u03b5\u03b9 \u03c3\u03cd\u03bd\u03c4\u03bf\u03bc\u03b1 \u03b4\u03b9\u03b1\u03b8\u03ad\u03c3\u03b9\u03bc\u03bf.",
+            "contactName": "Med1a Network",
+            "contactEmail": "movieflix@europe.com",
+            "contactSubject": "\u0395\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1 \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \"MovieFlix\"",
+            "contactMessage": " \u0391\u03b3\u03b1\u03c0\u03b7\u03c4\u03ae \u03bf\u03bc\u03ac\u03b4\u03b1 \u03c0\u03c1\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b9\u03c3\u03c4\u03ce\u03bd \u03c4\u03b7\u03c2 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae\u03c2 \"MovieFlix\",\n\u03c0\u03ae\u03c1\u03b1 \u03c4\u03b7\u03bd \u03b1\u03c0\u03cc\u03c6\u03b1\u03c3\u03b7 \u03bd\u03b1 \u03c3\u03b1\u03c2 \u03b1\u03c0\u03bf\u03c3\u03c4\u03b5\u03af\u03bb\u03bb\u03c9 \u03c4\u03bf \u03c3\u03c5\u03b3\u03ba\u03b5\u03ba\u03c1\u03b9\u03bc\u03ad\u03bd\u03bf \u03bc\u03ae\u03bd\u03c5\u03bc\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03bd\u03b1",
+            "PrivacyPolicyUrl": "https://sites.google.com/view/movieflixgrapp/privacy-policy",
+            "DMCAUrl": "https://forms.gle/nhBEBGBH9H1JKNKh6",
+            "MoreImageUrl": "https://i.ibb.co/nRkWFQG/MORE.png",
+            "MoreImageUrlHorizontal": "https://i.ibb.co/9q8MHJG/MORE-HORIZONTAL.png",
+            "NoImageUrl": "https://i.ibb.co/9yLBtnr/NO-IMAGE.png",
+            "DMCAImageUrl": "https://i.ibb.co/6wdZZ5x/Untitled-3.png",
+            "CodeExample": "greek_version_2020",
+            "MoreContentOption": false,
+            "AddContentOption": true,
+            "CalculateAndSendTimeSpentInActivity": true,
+            "CalculateCurentViewers": true,
+            "AddContentFormUrl": "https://movieflixforusers.vercel.app/addcontentform.html",
+            "AddContentFormUrlWorking": "https://forms.gle/DJHinA68xKMTYaa78",
+            "checkForUpdates": true,
+            "AdsType": "AdMob",
+            "BannerAdsType": "Unity",
+            "InterstitialAdsType": "AdMob",
+            "RewardedAdsType": "Unity",
+            "RewardedInterstitialAdsType": "Unity",
+            "AppOpenAdsType": "Unity",
+            "DelayEveryAdUnit": false,
+            "InitialDelay": "10000000000",
+            "TVDelayAdMob": 240000,
+            "VideoDelayAdMob": 240000,
+            "MoviesInfoDelayAdMob": 240000,
+            "SeriesInfoDelayAdMob": 240000,
+            "TVDelayUnity": 10000,
+            "VideoDelayUnity": 10000,
+            "MoviesInfoDelayUnity": 10000,
+            "SeriesInfoDelayUnity": 10000,
+            "introductionEnabled": true,
+            "MessageAlert": false,
+            "MessageText": "Live \u03a4\u0395\u039b\u0399\u039a\u039f\u03a3 CONFERENCE LEAGUE: \u039f\u03bb\u03c5\u03bc\u03c0\u03b9\u03b1\u03ba\u03cc\u03c2 - \u03a6\u03b9\u03bf\u03c1\u03b5\u03bd\u03c4\u03af\u03bd\u03b1 - \u0394\u0395\u0399\u03a4\u0395 \u03a4\u039f LIVE \u03a3\u03a4\u039f MOVIEFLIX \u03a3\u03a4\u0399\u03a3 22:00 - \u0391\u03bd \u03b4\u03b5\u03bd \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03b5\u03af \u03c4\u03bf \u03ba\u03b1\u03bd\u03ac\u03bb\u03b9 Mega TV Live \u03b4\u03bf\u03ba\u03b9\u03bc\u03ac\u03c3\u03c4\u03b5 \u03c4\u03bf \u039a\u03b1\u03bd\u03ac\u03bb\u03b9 \u03c4\u03bf\u03c5 \u039f\u03bb\u03c5\u03bc\u03c0\u03b9\u03b1\u03ba\u03bf\u03cd",
+            "MessageButtonText": "INSTALL",
+            "MessageButtonDestination": "https://google.com",
+            "MessageAdditionalWay": "Image",
+            "MessageImageUrl": "https://www.sportime.gr/wp-content/uploads/2024/05/olympiakos2.jpg"
+        }
+    ],
+    "Introduction": [
+        {
+            "Image": "https://i.ibb.co/X8F9YfY/TE1.png",
+            "ImageGreece": "https://i.ibb.co/FJwnYhY/T1.png"
+        },
+        {
+            "Image": "https://i.ibb.co/SmJybrj/TE2.png",
+            "ImageGreece": "https://i.ibb.co/CKNCcRy/T2.png"
+        },
+        {
+            "Image": "https://i.ibb.co/hCtPWhw/TE3.png",
+            "ImageGreece": "https://i.ibb.co/9wk0w7m/T3.png"
+        },
+        {
+            "Image": "https://i.ibb.co/F3zYKRC/TE4.png",
+            "ImageGreece": "https://i.ibb.co/JcxqZTK/T4.png"
+        },
+        {
+            "Image": "https://i.ibb.co/kMZL913/TE5.png",
+            "ImageGreece": "https://i.ibb.co/Hr3Smwk/T5.png"
+        },
+        {
+            "Image": "https://i.ibb.co/MDmsHyX/TE6.png",
+            "ImageGreece": "https://i.ibb.co/JzpFNc5/T6.png"
+        },
+        {
+            "Image": "https://i.ibb.co/bQNqHW6/TE-T7.png",
+            "ImageGreece": "https://i.ibb.co/bQNqHW6/TE-T7.png"
+        },
+        {
+            "Image": "https://i.ibb.co/F4WbfJV/TE8.png",
+            "ImageGreece": "https://i.ibb.co/bK4Jm5f/T8.png"
+        }
+    ],
+    "Pre-Unlocked": [
+        {
+            "Code": "greek_version_2023"
+        }
+    ],
+    "Ads": [
+        {
+            "APP_ID_AdMob": "ca-app-pub-1686320680626195~6493921150",
+            "Banner_Id_AdMob": "",
+            "Banner_Id_AdMobReal": "",
+            "Interstitial_Id_AdMob": "ca-app-pub-1686320680626195/2087772285",
+            "Interstitial_Id_AdMobReal": "ca-app-pub-1686320680626195/2087772285",
+            "Rewarded_Id_AdMob": "",
+            "Rewarded_Id_AdMobReal": "",
+            "AppOpen_Id_AdMob": "",
+            "RewardedInterstitial_Id_AdMob": "",
+            "APP_ID_Unity": "5598984",
+            "Banner_Id_Unity": "Banner_Android",
+            "Interstitial_Id_Unity": "Interstitial_Android",
+            "Rewarded_Id_Unity": "Rewarded_Android",
+            "AppOpen_Id_Unity": "NO_ID",
+            "RewardedInterstitial_Id_Unity": "NO_ID",
+            "TVDelayBannerAdMob": 10000,
+            "VideoDelayBannerAdMob": 10000,
+            "TVDelayBannerUnity": 10000,
+            "VideoDelayBannerUnity": 10000,
+            "TVDelayInterstitialAdMob": 10000,
+            "VideoDelayInterstitialAdMob": 10000,
+            "MoviesInfoDelayInterstitialAdMob": 10000,
+            "SeriesInfoDelayInterstitialAdMob": 10000,
+            "TVDelayInterstitialUnity": 10000,
+            "VideoDelayInterstitialUnity": 10000,
+            "MoviesInfoDelayInterstitialUnity": 10000,
+            "SeriesInfoDelayInterstitialUnity": 10000,
+            "MoviesInfoDelayRewardedAdMob": 10000,
+            "SeriesInfoDelayRewardedAdMob": 10000,
+            "MoviesInfoDelayRewardedUnity": 0,
+            "SeriesInfoDelayRewardedUnity": 0,
+            "delayAppOpenMainActivity": 600000,
+            "delayInterstitialRewardedMainActivity": 120000,
+            "delayBannerLiveStreamingActivity": 90000,
+            "delayInterstitialLiveStreamingActivity": 120000,
+            "delayInterstitialRewardedMoviesInfoActivity": 120000,
+            "delayRewardedMoviesInfoActivity": 30000,
+            "delayInterstitialRewardedSeriesInfoActivity": 1200000,
+            "delayRewardedSeriesInfoActivity": 30000,
+            "delayBannerVideoStreamingActivity": 90000,
+            "delayInterstitialVideoStreamingActivity": 120000,
+            "Pre-Delay": [
+                {
+                    "AdMob": [
+                        {
+                            "Banner": 0,
+                            "Interstitial": 0,
+                            "Rewarded": 0
+                        }
+                    ],
+                    "Unity": [
+                        {
+                            "Banner": 0,
+                            "Interstitial": 0,
+                            "Rewarded": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Rating": [
+        {
+            "InstagramUserName": "med1altd",
+            "isInstagramVisisible": true,
+            "isRatingVisible": true,
+            "RatingUrl": "https://play.google.com/store/apps/details?id=com.med1a.movieflix",
+            "isInfoVisible": true,
+            "InfoText": "MovieFlix Privacy Policy will be updated soon...",
+            "InfoTextOld": "\u0391\u03c0\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u0395\u03c5\u03b8\u03c5\u03bd\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u0395\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae:\n\u0397 \u03c0\u03b1\u03c1\u03bf\u03cd\u03c3\u03b1 \u03b1\u03c0\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03b5\u03c5\u03b8\u03c5\u03bd\u03ce\u03bd \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b7 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c4\u03b7 \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae\u03c2 MovieFlix, \u03b5\u03bd\u03c4\u03cc\u03c2 \u03c4\u03c9\u03bd \u03c0\u03bb\u03b1\u03b9\u03c3\u03af\u03c9\u03bd \u03c4\u03b7\u03c2 \u0395\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03ae\u03c2 \u039f\u03b4\u03b7\u03b3\u03af\u03b1\u03c2 2000/31/\u0395\u039a, \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03bf \u03ac\u03c1\u03b8\u03c1\u03bf 15 \u03c4\u03b7\u03c2 \u03b5\u03bd \u03bb\u03cc\u03b3\u03c9 \u039f\u03b4\u03b7\u03b3\u03af\u03b1\u03c2.\n\u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03b7\u03bd \u0395\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03ae \u039f\u03b4\u03b7\u03b3\u03af\u03b1 2000/31/\u0395\u039a, \u03ac\u03c1\u03b8\u03c1\u03bf 15, \u03b7 \u03b5\u03c4\u03b1\u03b9\u03c1\u03b5\u03af\u03b1 \u03c6\u03b9\u03bb\u03bf\u03be\u03b5\u03bd\u03af\u03b1\u03c2 \u03b4\u03b5\u03bd \u03c6\u03ad\u03c1\u03b5\u03b9 \u03b3\u03b5\u03bd\u03b9\u03ba\u03ae \u03c5\u03c0\u03bf\u03c7\u03c1\u03ad\u03c9\u03c3\u03b7 \u03bd\u03b1 \u03c0\u03b1\u03c1\u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5\u03af \u03c4\u03b1 \u03c0\u03b5\u03c1\u03b9\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03b1 \u03c0\u03bf\u03c5 \u03bc\u03b5\u03c4\u03b1\u03c6\u03ad\u03c1\u03bf\u03bd\u03c4\u03b1\u03b9 \u03ae \u03b1\u03c0\u03bf\u03b8\u03b7\u03ba\u03b5\u03cd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bc\u03ad\u03c3\u03c9 \u03c4\u03b7\u03c2 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae\u03c2. \u03a3\u03c5\u03bd\u03b5\u03c0\u03ce\u03c2, \u03b5\u03c0\u03b9\u03c3\u03b7\u03bc\u03b1\u03af\u03bd\u03bf\u03c5\u03bc\u03b5 \u03cc\u03c4\u03b9 \u03b7 \u03b5\u03c5\u03b8\u03cd\u03bd\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03c0\u03b5\u03c1\u03b9\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf \u03c0\u03bf\u03c5 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03bf\u03cd\u03bd \u03ae \u03bc\u03b5\u03c4\u03b1\u03c6\u03ad\u03c1\u03bf\u03c5\u03bd \u03bf\u03b9 \u03c7\u03c1\u03ae\u03c3\u03c4\u03b5\u03c2 \u03b1\u03bd\u03ae\u03ba\u03b5\u03b9 \u03b1\u03c0\u03bf\u03ba\u03bb\u03b5\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac \u03c3\u03b5 \u03b1\u03c5\u03c4\u03bf\u03cd\u03c2 \u03c4\u03bf\u03c5\u03c2 \u03c7\u03c1\u03ae\u03c3\u03c4\u03b5\u03c2.\n\n\u039f\u03b9 \u03c7\u03c1\u03ae\u03c3\u03c4\u03b5\u03c2 \u03c4\u03b7\u03c2 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae\u03c2 MovieFlix \u03b5\u03af\u03bd\u03b1\u03b9 \u03c5\u03c0\u03b5\u03cd\u03b8\u03c5\u03bd\u03bf\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c4\u03ae\u03c1\u03b7\u03c3\u03b7 \u03cc\u03bb\u03c9\u03bd \u03c4\u03c9\u03bd \u03b9\u03c3\u03c7\u03c5\u03cc\u03bd\u03c4\u03c9\u03bd \u03bd\u03cc\u03bc\u03c9\u03bd \u03ba\u03b1\u03b9 \u03ba\u03b1\u03bd\u03bf\u03bd\u03b9\u03c3\u03bc\u03ce\u03bd \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03bf \u03c0\u03b5\u03c1\u03b9\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf \u03c0\u03bf\u03c5 \u03c0\u03c1\u03bf\u03c3\u03b8\u03ad\u03c4\u03bf\u03c5\u03bd \u03ae \u03bc\u03bf\u03b9\u03c1\u03ac\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9. \u0397 \u03b5\u03c4\u03b1\u03b9\u03c1\u03b5\u03af\u03b1 \u03b4\u03b9\u03b1\u03c4\u03b7\u03c1\u03b5\u03af \u03c4\u03bf \u03b4\u03b9\u03ba\u03b1\u03af\u03c9\u03bc\u03b1, \u03b1\u03bb\u03bb\u03ac \u03cc\u03c7\u03b9 \u03c4\u03b7\u03bd \u03c5\u03c0\u03bf\u03c7\u03c1\u03ad\u03c9\u03c3\u03b7, \u03bd\u03b1 \u03c0\u03b1\u03c1\u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5\u03af, \u03bd\u03b1 \u03c6\u03b9\u03bb\u03c4\u03c1\u03ac\u03c1\u03b5\u03b9, \u03bd\u03b1 \u03b5\u03c0\u03b5\u03be\u03b5\u03c1\u03b3\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03ae \u03bd\u03b1 \u03b1\u03c6\u03b1\u03b9\u03c1\u03b5\u03af \u03c0\u03b5\u03c1\u03b9\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf \u03c0\u03bf\u03c5 \u03b8\u03b5\u03c9\u03c1\u03b5\u03af \u03cc\u03c4\u03b9 \u03c0\u03b1\u03c1\u03b1\u03b2\u03b9\u03ac\u03b6\u03b5\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03cc\u03c1\u03bf\u03c5\u03c2 \u03c7\u03c1\u03ae\u03c3\u03b7\u03c2 \u03ae \u03c4\u03b9\u03c2 \u03bd\u03bf\u03bc\u03b9\u03ba\u03ad\u03c2 \u03b1\u03c0\u03b1\u03b9\u03c4\u03ae\u03c3\u03b5\u03b9\u03c2.\n\n\u03a0\u03c1\u03bf\u03c4\u03bf\u03cd \u03bf\u03b9 \u03c7\u03c1\u03ae\u03c3\u03c4\u03b5\u03c2 \u03c0\u03c1\u03bf\u03b2\u03bf\u03cd\u03bd \u03c3\u03b5 \u03bf\u03c0\u03bf\u03b9\u03b1\u03b4\u03ae\u03c0\u03bf\u03c4\u03b5 \u03bd\u03bf\u03bc\u03b9\u03ba\u03ae \u03b4\u03b9\u03b1\u03b4\u03b9\u03ba\u03b1\u03c3\u03af\u03b1, \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03b5\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03ae\u03c3\u03bf\u03c5\u03bd \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03c0\u03c1\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b9\u03c3\u03c4\u03ad\u03c2 \u03c4\u03b7\u03c2 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae\u03c2 MovieFlix. \u03a3\u03b5 \u03c0\u03b5\u03c1\u03af\u03c0\u03c4\u03c9\u03c3\u03b7 \u03c0\u03b1\u03c1\u03ac\u03ba\u03b1\u03bc\u03c8\u03b7\u03c2 \u03c4\u03bf\u03c5 \u03c0\u03b1\u03c1\u03b1\u03c0\u03ac\u03bd\u03c9 \u03cc\u03c1\u03bf\u03c5 \u03c4\u03b7\u03c2 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae\u03c2, \u03b7 \u03b5\u03c4\u03b1\u03b9\u03c1\u03b5\u03af\u03b1 \u03c0\u03c1\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b9\u03c3\u03c4\u03ce\u03bd \u03bc\u03b1\u03c2 \u03b8\u03b1 \u03b5\u03c0\u03b9\u03c6\u03c5\u03bb\u03b1\u03c7\u03b8\u03b5\u03af \u03c4\u03bf\u03c5 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bc\u03b1\u03c4\u03bf\u03c2 \u03bd\u03b1 \u03ba\u03b9\u03bd\u03b7\u03b8\u03b5\u03af \u03bd\u03bf\u03bc\u03b9\u03ba\u03ac \u03b5\u03bd\u03b1\u03bd\u03c4\u03af\u03bf\u03bd \u03bf\u03c0\u03bf\u03b9\u03bf\u03c5\u03b4\u03ae\u03c0\u03bf\u03c4\u03b5 \u03c0\u03b1\u03c1\u03b1\u03b2\u03b9\u03ac\u03b6\u03b5\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03cc\u03c1\u03bf\u03c5\u03c2 \u03c7\u03c1\u03ae\u03c3\u03b7\u03c2.\n\n\u0395\u03c0\u03b9\u03c0\u03bb\u03ad\u03bf\u03bd, \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03c0\u03b5\u03c1\u03b9\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf \u03b5\u03bd\u03c4\u03cc\u03c2 \u03c4\u03b7\u03c2 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae\u03c2 \u03c0\u03bf\u03c5 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03be\u03b5\u03ba\u03bb\u03b5\u03b9\u03b4\u03c9\u03b8\u03b5\u03af \u03b1\u03c0\u03cc \u03c4\u03bf\u03c5\u03c2 \u03c7\u03c1\u03ae\u03c3\u03c4\u03b5\u03c2 \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b5\u03b9\u03c3\u03b1\u03b3\u03c9\u03b3\u03ae \u03b5\u03bd\u03cc\u03c2 \u03bc\u03bf\u03bd\u03b1\u03b4\u03b9\u03ba\u03bf\u03cd \u03ba\u03c9\u03b4\u03b9\u03ba\u03bf\u03cd. \u038c\u03c3\u03bf\u03b9 \u03c7\u03c1\u03ae\u03c3\u03c4\u03b5\u03c2 \u03b5\u03c0\u03b9\u03b8\u03c5\u03bc\u03bf\u03cd\u03bd \u03bd\u03b1 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03ae\u03c3\u03bf\u03c5\u03bd \u03bb\u03af\u03c3\u03c4\u03b1 \u03bc\u03b5 \u03b5\u03bd\u03c3\u03c9\u03bc\u03b1\u03c4\u03c9\u03bc\u03ad\u03bd\u03bf \u03c0\u03b5\u03c1\u03b9\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf (\u03a4\u03b7\u03bb\u03b5\u03bf\u03c0\u03c4\u03b9\u03ba\u03ac \u039a\u03b1\u03bd\u03ac\u03bb\u03b9\u03b1, \u03a4\u03b1\u03b9\u03bd\u03af\u03b5\u03c2 %26 \u03a3\u03b5\u03b9\u03c1\u03ad\u03c2) \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03c4\u03bf \u03bc\u03bf\u03b9\u03c1\u03b1\u03c3\u03c4\u03bf\u03cd\u03bd \u03bc\u03b1\u03b6\u03af \u03bc\u03b5 \u03ac\u03bb\u03bb\u03bf\u03c5\u03c2 \u03c7\u03c1\u03ae\u03c3\u03c4\u03b5\u03c2, \u03ad\u03c7\u03bf\u03c5\u03bd \u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae \u03bd\u03b1 \u03b1\u03c0\u03bf\u03ba\u03c4\u03ae\u03c3\u03bf\u03c5\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03c0\u03c1\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b9\u03c3\u03c4\u03ce\u03bd \u03bc\u03b1\u03c2 \u03ad\u03bd\u03b1\u03bd \u03be\u03b5\u03c7\u03c9\u03c1\u03b9\u03c3\u03c4\u03cc \u03ba\u03c9\u03b4\u03b9\u03ba\u03cc \u03c0\u03b5\u03c1\u03b9\u03b5\u03c7\u03bf\u03bc\u03ad\u03bd\u03bf\u03c5. \u0397 \u03b5\u03c4\u03b1\u03b9\u03c1\u03b5\u03af\u03b1 \u03b4\u03b5\u03bd \u03c6\u03ad\u03c1\u03b5\u03b9 \u03ba\u03b1\u03bc\u03af\u03b1 \u03b5\u03c5\u03b8\u03cd\u03bd\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03c5\u03bb\u03b9\u03ba\u03cc \u03b1\u03c5\u03c4\u03cc, \u03ba\u03b1\u03b9 \u03c3\u03b5 \u03c0\u03b5\u03c1\u03af\u03c0\u03c4\u03c9\u03c3\u03b7 \u03b5\u03c0\u03b9\u03b8\u03c5\u03bc\u03af\u03b1\u03c2 \u03b4\u03b9\u03b1\u03b3\u03c1\u03b1\u03c6\u03ae\u03c2 \u03bf\u03bb\u03cc\u03ba\u03bb\u03b7\u03c1\u03bf\u03c5 \u03ae \u03c4\u03bc\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03c5\u03b3\u03ba\u03b5\u03ba\u03c1\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03c0\u03b5\u03c1\u03b9\u03b5\u03c7\u03bf\u03bc\u03ad\u03bd\u03bf\u03c5 \u03c3\u03c5\u03bd\u03af\u03c3\u03c4\u03b1\u03c4\u03b1\u03b9 \u03b7 \u03c5\u03c0\u03bf\u03b2\u03bf\u03bb\u03ae \u03c4\u03b7\u03c2 \u03b5\u03b9\u03b4\u03b9\u03ba\u03ae\u03c2 \u03c6\u03cc\u03c1\u03bc\u03b1\u03c2 DMCA \u03c0\u03bf\u03c5 \u03b2\u03c1\u03af\u03c3\u03ba\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03bf \u03ba\u03ac\u03c4\u03c9 \u03bc\u03ad\u03c1\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03c3\u03c5\u03b3\u03ba\u03b5\u03ba\u03c1\u03b9\u03bc\u03ad\u03bd\u03b7\u03c2 \u03c3\u03b5\u03bb\u03af\u03b4\u03b1\u03c2.",
+            "isSubscriptionVisible": false,
+            "SubmissionUrl": "https://forms.gle/7tpqfUAkb8RF5Xvv5"
+        }
+    ],
+    "Standard": [
+        {
+            "TV": [
+                {
+                    "Url": "https://api.github.com/repos/med1altd/app.com.med1a.movieflix/contents/basicVersionTV.json"
+                }
+            ],
+            "Movies": [
+                {
+                    "Url": "https://api.github.com/repos/med1altd/app.com.med1a.movieflix/contents/basicVersionKTMY.json",
+                    "Category": 0
+                },
+                {
+                    "Url": "https://api.github.com/repos/med1altd/app.com.med1a.movieflix/contents/basicVersionET.json",
+                    "Category": 1
+                },
+                {
+                    "Url": "https://api.github.com/repos/med1altd/app.com.med1a.movieflix/contents/basicVersionEPT.json",
+                    "Category": 2
+                }
+            ],
+            "Series": [
+                {
+                    "Url": "https://api.github.com/repos/med1altd/app.com.med1a.movieflix/contents/basicVersionKSMY.json",
+                    "Category": 0
+                },
+                {
+                    "Url": "https://api.github.com/repos/med1altd/app.com.med1a.movieflix/contents/basicVersionES.json",
+                    "Category": 1
+                },
+                {
+                    "Url": "https://api.github.com/repos/med1altd/app.com.med1a.movieflix/contents/basicVersionETS.json",
+                    "Category": 2
+                }
+            ],
+            "Kids": [
+                {
+                    "Url": "https://api.github.com/repos/med1altd/app.com.med1a.movieflix/contents/basicVersionMPT.json",
+                    "Category": 0
+                },
+                {
+                    "Url": "https://api.github.com/repos/med1altd/app.com.med1a.movieflix/contents/basicVersionMPS.json",
+                    "Category": 1
+                },
+                {
+                    "Url": "https://api.github.com/repos/med1altd/app.com.med1a.movieflix/contents/basicVersionPYK.json",
+                    "Category": 2
+                }
+            ]
+        }
+    ],
+    "Access": [
+        {
+            "Code": "greek_version_2023",
+            "Active": false,
+            "Valid": true,
+            "JSON_Urls": [
+                {
+                    "TV": [
+                        {
+                            "Url": "https://api.github.com/repos/med1altd/app.com.med1a.movieflix/contents/greekVersionTV.json"
+                        }
+                    ],
+                    "Movies": [
+                        {
+                            "Url": "https://api.github.com/repos/med1altd/app.com.med1a.movieflix/contents/greekVersionKTMY.json",
+                            "Category": 0
+                        },
+                        {
+                            "Url": "https://api.github.com/repos/med1altd/app.com.med1a.movieflix/contents/greekVersionET.json",
+                            "Category": 1
+                        },
+                        {
+                            "Url": "https://api.github.com/repos/med1altd/app.com.med1a.movieflix/contents/greekVersionEPT.json",
+                            "Category": 2
+                        }
+                    ],
+                    "Series": [
+                        {
+                            "Url": "https://api.github.com/repos/med1altd/app.com.med1a.movieflix/contents/greekVersionKSMY.json",
+                            "Category": 0
+                        },
+                        {
+                            "Url": "https://api.github.com/repos/med1altd/app.com.med1a.movieflix/contents/greekVersionES.json",
+                            "Category": 1
+                        },
+                        {
+                            "Url": "https://api.github.com/repos/med1altd/app.com.med1a.movieflix/contents/greekVersionETS.json",
+                            "Category": 2
+                        }
+                    ],
+                    "Kids": [
+                        {
+                            "Url": "https://api.github.com/repos/med1altd/app.com.med1a.movieflix/contents/greekVersionMPT.json",
+                            "Category": 0
+                        },
+                        {
+                            "Url": "https://api.github.com/repos/med1altd/app.com.med1a.movieflix/contents/greekVersionMPS.json",
+                            "Category": 1
+                        },
+                        {
+                            "Url": "https://api.github.com/repos/med1altd/app.com.med1a.movieflix/contents/greekVersionPYK.json",
+                            "Category": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Code": "1367222023",
+            "Active": true
+        }
+    ],
+    "AccessTV": [
+        {
+            "Code": "greek_version_2023",
+            "Active": false,
+            "Valid": true,
+            "JSON_Urls": [
+                {
+                    "TV": [
+                        {
+                            "Url": "https://api.github.com/repos/med1altd/app.com.med1a.movieflix/contents/greekVersionTV.json"
+                        }
+                    ],
+                    "Movies": [
+                        {
+                            "Url": "https://api.github.com/repos/med1altd/app.com.med1a.movieflix/contents/greekVersionKTMY.json",
+                            "Category": 0
+                        }
+                    ],
+                    "Series": [
+                        {
+                            "Url": "https://api.github.com/repos/med1altd/app.com.med1a.movieflix/contents/greekVersionKSMY.json",
+                            "Category": 0
+                        }
+                    ],
+                    "Kids": [
+                        {
+                            "Url": "https://api.github.com/repos/med1altd/app.com.med1a.movieflix/contents/greekVersionMPT.json",
+                            "Category": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Code": "1367222023",
+            "Active": true
+        }
+    ],
+    "Movies": [
+        {
+            "Title": "\u039e\u03ad\u03bd\u03b5\u03c2 \u03a4\u03b1\u03b9\u03bd\u03af\u03b5\u03c2 \n (\u039c\u03b5 \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03bf\u03cd\u03c2 \u03a5\u03c0\u03cc\u03c4\u03b9\u03c4\u03bb\u03bf\u03c5\u03c2)",
+            "Image": "https://www.whats-on-netflix.com/wp-content/uploads/2021/08/netflix-library-photo-scaled.jpg",
+            "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionKTMY.json",
+            "Type": "Movies",
+            "isUnlocked": true
+        },
+        {
+            "Title": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ad\u03c2 \u03a4\u03b1\u03b9\u03bd\u03af\u03b5\u03c2 \n (\u03a3\u03cd\u03b3\u03c7\u03c1\u03bf\u03bd\u03b5\u03c2)",
+            "Image": "https://urbanlife.gr/wp-content/uploads/2020/11/BeFunky-collage-scaled-e1604316199306.jpg",
+            "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionET.json",
+            "Type": "Movies",
+            "isUnlocked": true
+        },
+        {
+            "Title": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ad\u03c2 \u03a4\u03b1\u03b9\u03bd\u03af\u03b5\u03c2 \n (\u03a0\u03b1\u03bb\u03b9\u03cc\u03c2 \u039a\u03b9\u03bd\u03b7\u03bc\u03b1\u03c4\u03bf\u03b3\u03c1\u03ac\u03c6\u03bf\u03c2)",
+            "Image": "https://www.flowmagazine.gr/wp-content/uploads/o_palios_ellinikos_kinimatografos_featured.jpg",
+            "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionEPT.json",
+            "Type": "Movies",
+            "isUnlocked": true
+        }
+    ],
+    "Series": [
+        {
+            "Title": "\u039e\u03ad\u03bd\u03b5\u03c2 \u03a3\u03b5\u03b9\u03c1\u03ad\u03c2 \n (\u039c\u03b5 \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03bf\u03cd\u03c2 \u03a5\u03c0\u03cc\u03c4\u03b9\u03c4\u03bb\u03bf\u03c5\u03c2)",
+            "Image": "https://offloadmedia.feverup.com/secretldn.com/wp-content/uploads/2020/03/18074959/72354623_743029929493734_4704406170316788179_n-1024x912.jpg",
+            "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionKSMY.json",
+            "Type": "Series",
+            "isUnlocked": true
+        },
+        {
+            "Title": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ad\u03c2 \u03a3\u03b5\u03b9\u03c1\u03ad\u03c2",
+            "Image": "https://youfly.com/wp-content/uploads/2022/06/ellinikes-seires-2022-2023-1.jpg",
+            "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionES.json",
+            "Type": "Series",
+            "isUnlocked": true
+        },
+        {
+            "Title": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ad\u03c2 \u03a4\u03b7\u03bb\u03b5\u03bf\u03c0\u03c4\u03b9\u03ba\u03ad\u03c2 \u03a3\u03b5\u03b9\u03c1\u03ad\u03c2",
+            "Image": "https://mikrofwno.gr/wp-content/uploads/2021/09/seires-2021-2022-mikrofwno-3.jpg",
+            "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionETS.json",
+            "Type": "Series",
+            "isUnlocked": true
+        }
+    ],
+    "Kids": [
+        {
+            "Title": "\u039c\u03b5\u03c4\u03b1\u03b3\u03bb\u03c9\u03c4\u03c4\u03b9\u03c3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03a0\u03b1\u03b9\u03b4\u03b9\u03ba\u03ad\u03c2 \u03a4\u03b1\u03b9\u03bd\u03af\u03b5\u03c2",
+            "Image": "https://i.pinimg.com/736x/17/98/f0/1798f0e79d761c7d2b3b169e8f36d4cc.jpg",
+            "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionMPT.json",
+            "Type": "Movies",
+            "isUnlocked": true
+        },
+        {
+            "Title": "\u039c\u03b5\u03c4\u03b1\u03b3\u03bb\u03c9\u03c4\u03c4\u03b9\u03c3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03a0\u03b1\u03b9\u03b4\u03b9\u03ba\u03ad\u03c2 \u03a3\u03b5\u03b9\u03c1\u03ad\u03c2",
+            "Image": "https://deadline.com/wp-content/uploads/2022/11/MH_Clean.jpg",
+            "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionMPS.json",
+            "Type": "Series",
+            "isUnlocked": true
+        },
+        {
+            "Title": "\u03a0\u03b1\u03b9\u03b4\u03b9\u03ba\u03ac YouTube \u039a\u03b1\u03bd\u03ac\u03bb\u03b9\u03b1",
+            "Image": "https://media1.popsugar-assets.com/files/thumbor/137KqO7Jfs_zQ2GGiAHgLUqAHkU/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2021/05/26/739/n/24155406/6f24e5c65e5331bb_download_1_/i/CoComelon.jpeg",
+            "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionPYK.json",
+            "Type": "YouTube",
+            "isUnlocked": true
+        }
+    ],
+    "Fetch": [
+        {
+            "Title": "MediaFire",
+            "beforeEnd": 5,
+            "Type": "media",
+            "StartString": "https://download",
+            "EndString": "\"",
+            "Start": 0,
+            "End": 0
+        },
+        {
+            "Title": "Voe",
+            "beforeEnd": 0,
+            "Type": "m3u8",
+            "StartString": "'hls': '",
+            "EndString": "',",
+            "Start": 8,
+            "End": 0
+        }
+    ],
+    "API": [
+        {
+            "requestAdMobRequestsAPIUrl": "https://greektv.vercel.app/api/requestAdMobRequests",
+            "updateAdMobRequestsAPIUrl": "https://greektv.vercel.app/api/updateAdRequests?Type=",
+            "updateAdMobMatchedRequestsAPIUrl": "https://greektv.vercel.app/api/updateMatchedAdRequests?Type=",
+            "sendTimeSpentAPIUrl": "https://greekmovies.netlify.app/kosmos_test.html",
+            "liveEPGJSONUrl": "https://api.github.com/gists/4cd6b3c4ede5f5433b7f4c54a86459e5",
+            "liveEPGJSONFileName": "overview.json",
+            "voeDomainUrl": "https://heatherdiscussionwhen.com/"
+        }
+    ],
+    "jsonArrayAdditionalWebViewCode": [
+        {
+            "VidHide": "javascript:(function(){var playButton = document.querySelector('.jw-icon.jw-icon-display');if (playButton) {playButton.click();}})()"
+        }
+    ]
+}
