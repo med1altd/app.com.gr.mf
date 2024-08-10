@@ -120,11 +120,11 @@
     ],
     "Ads": [
         {
-            "APP_ID_AdMob": "ca-app-pub-1686320680626195~6493921150",
+            "APP_ID_AdMob": "ca-app-pub-4595446562554357~8562003728",
             "Banner_Id_AdMob": "",
             "Banner_Id_AdMobReal": "",
-            "Interstitial_Id_AdMob": "ca-app-pub-1686320680626195/2087772285",
-            "Interstitial_Id_AdMobReal": "ca-app-pub-1686320680626195/2087772285",
+            "Interstitial_Id_AdMob": "ca-app-pub-4595446562554357/5659776664",
+            "Interstitial_Id_AdMobReal": "ca-app-pub-4595446562554357/5659776664",
             "Rewarded_Id_AdMob": "",
             "Rewarded_Id_AdMobReal": "",
             "AppOpen_Id_AdMob": "",
@@ -154,7 +154,7 @@
             "delayAppOpenMainActivity": 600000,
             "delayInterstitialRewardedMainActivity": 120000,
             "delayBannerLiveStreamingActivity": 90000,
-            "delayInterstitialLiveStreamingActivity": 120000,
+            "delayInterstitialLiveStreamingActivity": 100,
             "delayInterstitialRewardedMoviesInfoActivity": 120000,
             "delayRewardedMoviesInfoActivity": 30000,
             "delayInterstitialRewardedSeriesInfoActivity": 1200000,
