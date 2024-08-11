@@ -13,7 +13,7 @@
             "showAppOpenAds": false,
             "Casting_App_Id": "283C71D7",
             "enabledCastOption": true,
-            "enabledServerAdRequestsCheck": false,
+            "enabledServerAdRequestsCheck": true,
             "EPGIntervalTimeInMs": 900000,
             "RequestNewExpiredAdTime": 1800000,
             "bypassLockedContent": true,
