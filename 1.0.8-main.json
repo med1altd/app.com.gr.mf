@@ -442,7 +442,7 @@
             "sendTimeSpentAPIUrl": "https://greekmovies.netlify.app/kosmos_test.html",
             "liveEPGJSONUrl": "https://api.github.com/gists/4cd6b3c4ede5f5433b7f4c54a86459e5",
             "liveEPGJSONFileName": "overview.json",
-            "voeDomainUrl": "https://alleneconomicmatter.com/"
+            "voeTestID": "kqrw17iyoemx"
         }
     ],
     "jsonArrayAdditionalWebViewCode": [
