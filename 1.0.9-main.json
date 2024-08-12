@@ -436,9 +436,9 @@
     ],
     "API": [
         {
-            "requestAdMobRequestsAPIUrl": "https://movieflixgr.vercel.app/api/requestAdMobRequestsspeedId=144dOobEsjNN0sI8e8Vni7R1XqSANuVyvzEfde8QbXiA",
+            "requestAdMobRequestsAPIUrl": "https://movieflixgr.vercel.app/api/requestAdMobRequests?speedId=144dOobEsjNN0sI8e8Vni7R1XqSANuVyvzEfde8QbXiA",
             "updateAdMobRequestsAPIUrl": "https://movieflixgr.vercel.app/api/updateAdRequests?speedId=144dOobEsjNN0sI8e8Vni7R1XqSANuVyvzEfde8QbXiA&Type=",
-            "updateAdMobMatchedRequestsAPIUrl": "https://movieflixgr.vercel.app/api/updateMatchedAdRequests?speedId=144dOobEsjNN0sI8e8Vni7R1XqSANuVyvzEfde8QbXiA&Type=",
+            "updateAdMobMatchedRequestsAPIUrl": "https://movieflixgr.vercel.app/api/updateAdMatchedRequests?speedId=144dOobEsjNN0sI8e8Vni7R1XqSANuVyvzEfde8QbXiA&Type=",
             "sendTimeSpentAPIUrl": "https://greekmovies.netlify.app/kosmos_test.html",
             "liveEPGJSONUrl": "https://api.github.com/gists/4cd6b3c4ede5f5433b7f4c54a86459e5",
             "liveEPGJSONFileName": "overview.json",
