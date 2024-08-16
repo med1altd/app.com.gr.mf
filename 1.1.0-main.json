@@ -80,7 +80,7 @@
 
             "enabledAPIAdRequestsAndMatchRateCheck": true,
             "adRequestsMinimum": 0,
-            "adRequestsMaximum": 30,
+            "adRequestsMaximum": 80,
             "matchRateMinimum": 100.0
         }
     ],
