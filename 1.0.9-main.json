@@ -76,7 +76,12 @@
             "MessageButtonText": "INSTALL",
             "MessageButtonDestination": "https://google.com",
             "MessageAdditionalWay": "Image",
-            "MessageImageUrl": "https://www.sportime.gr/wp-content/uploads/2024/05/olympiakos2.jpg"
+            "MessageImageUrl": "https://www.sportime.gr/wp-content/uploads/2024/05/olympiakos2.jpg",
+
+            "enabledAPIAdRequestsAndMatchRateCheck": true,
+            "adRequestsMinimum": 0,
+            "adRequestsMaximum": 0,
+            "matchRateMinimum": 100.0
         }
     ],
     "Introduction": [
