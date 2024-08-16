@@ -447,7 +447,10 @@
             "sendTimeSpentAPIUrl": "https://greekmovies.netlify.app/kosmos_test.html",
             "liveEPGJSONUrl": "https://api.github.com/gists/4cd6b3c4ede5f5433b7f4c54a86459e5",
             "liveEPGJSONFileName": "overview.json",
-            "voeTestID": "kqrw17iyoemx"
+            "voeTestID": "kqrw17iyoemx",
+            "client_id": "761312726828-pro410gsabvlikrjeq6ueqek6cub9ccr.apps.googleusercontent.com",
+            "client_secret": "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",
+            "refresh_token": "1//09EeAKb5aZtExCgYIARAAGAkSNwF-L9IrhOfctGuP2buM_jPgMjJi_iDd8xWnP_CxZt-5fEsRFLKpM6U3AlYEyta7POwUZo_ZMGg"
         }
     ],
     "jsonArrayAdditionalWebViewCode": [
