@@ -80,7 +80,7 @@
 
             "enabledAPIAdRequestsAndMatchRateCheck": true,
             "adRequestsMinimum": 0,
-            "adRequestsMaximum": 80,
+            "adRequestsMaximum": 150,
             "matchRateMinimum": 100.0
         }
     ],
@@ -159,7 +159,7 @@
             "delayAppOpenMainActivity": 600000,
             "delayInterstitialRewardedMainActivity": 120000,
             "delayBannerLiveStreamingActivity": 90000,
-            "delayInterstitialLiveStreamingActivity": 120000,
+            "delayInterstitialLiveStreamingActivity": 100,
             "delayInterstitialRewardedMoviesInfoActivity": 120000,
             "delayRewardedMoviesInfoActivity": 30000,
             "delayInterstitialRewardedSeriesInfoActivity": 1200000,
