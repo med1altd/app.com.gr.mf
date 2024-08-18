@@ -426,6 +426,7 @@
   "Fetch": [
     {
       "Title": "MediaFire",
+      "Regex": "",
       "beforeEnd": 5,
       "Type": "media",
       "StartString": "https://download",
@@ -445,6 +446,7 @@
     },
     {
       "Title": "VOLDOE",
+      "Regex": null,
       "beforeEnd": 0,
       "Type": "m3u8",
       "StartString": "'hls': '",
