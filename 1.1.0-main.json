@@ -433,13 +433,13 @@
             "Title": "Voe",
             "beforeEnd": 0,
             "Type": "m3u8",
-            "StartString": "\"Node\", \"'",
+            "StartString": "prompt",
             "EndString": "\"",
-            "Start": 9,
+            "Start": 16,
             "End": 0
         },
         {
-            "Title": "VoeOld",
+            "Title": "VOLDOE",
             "beforeEnd": 0,
             "Type": "m3u8",
             "StartString": "'hls': '",
