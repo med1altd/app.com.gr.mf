@@ -8,7 +8,7 @@
             "showBannerAds": false,
             "showInterstitialAds": true,
             "showInterstitialAdsLive": true,
-            "showInterstitialAdsVideo": false,
+            "showInterstitialAdsVideo": true,
             "showRewardedInterstitialAds": false,
             "showAppOpenAds": false,
             "Casting_App_Id": "283C71D7",
@@ -165,7 +165,7 @@
             "delayInterstitialRewardedSeriesInfoActivity": 1200000,
             "delayRewardedSeriesInfoActivity": 30000,
             "delayBannerVideoStreamingActivity": 90000,
-            "delayInterstitialVideoStreamingActivity": 120000,
+            "delayInterstitialVideoStreamingActivity": 1800000,
             "Pre-Delay": [
                 {
                     "AdMob": [
