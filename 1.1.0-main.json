@@ -433,11 +433,20 @@
             "Title": "Voe",
             "beforeEnd": 0,
             "Type": "m3u8",
+            "StartString": "\"Node\", \"'",
+            "EndString": "\"",
+            "Start": 9,
+            "End": 0
+        },
+        {
+            "Title": "VoeOld",
+            "beforeEnd": 0,
+            "Type": "m3u8",
             "StartString": "'hls': '",
             "EndString": "',",
             "Start": 8,
             "End": 0
-        }
+        }        
     ],
     "API": [
         {
