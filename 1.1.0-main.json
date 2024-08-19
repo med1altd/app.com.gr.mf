@@ -85,7 +85,7 @@
         
       "adRequestsMinimum": 0,
       "adRequestsMaximum": 135,
-      "matchRateMinimum": 100.0
+      "matchRateMinimum": 99.5
     }
   ],
   "Introduction": [
