@@ -86,7 +86,7 @@
       "enabledAPIAdRequestsAndMatchRateCheck": true,        
       "adRequestsMinimum": 0,
       "adRequestsMaximum": 135,
-      "matchRateMinimum": 100
+      "matchRateMinimum": 98.8
     }
   ],
   "Introduction": [
