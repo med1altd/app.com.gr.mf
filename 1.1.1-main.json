@@ -443,8 +443,8 @@
       "Type": "m3u8",
       "StartString": " \"https://delivery-node",
       "EndString": "\"",
-      "Start": 31,
-      "End": 0
+      "Start": 2,
+      "End": 1
     },
     {
       "Title": "VOLDOE",
