@@ -448,6 +448,17 @@
       "End": 0
     },
     {
+      "Title": "VoeDirectGamatoTV",
+      "Regex": "",
+      "RegexOld": "https:\\/\\/delivery-node-[a-z0-9]+\\.voe-network\\.net\\/engine\\/hls2\\/\\d+\\/\\d+\\/[a-z0-9]+_,[^,]+,\\.urlset\\/master\\.m3u8\\?t=[A-Za-z0-9]+&s=\\d+&e=\\d+&f=\\d+&node=delivery-node-[a-z0-9]+\\.voe-network\\.net&i=\\d+\\.\\d+&sp=\\d+&asn=\\d+",
+      "beforeEnd": 0,
+      "Type": "m3u8",
+      "StartString": " \"https://delivery-node",
+      "EndString": "\"",
+      "Start": 2,
+      "End": 0
+    },
+    {
       "Title": "VOLDOE",
       "Regex": null,
       "beforeEnd": 0,
