@@ -359,15 +359,15 @@
   "Movies": [
     {
       "Title": "Ξένες Ταινίες \n (Με Ελληνικούς Υπότιτλους)",
-      "Image": "https://www.whats-on-netflix.com/wp-content/uploads/2021/08/netflix-library-photo-scaled.jpg",
+      "Image": "https://i.ibb.co/rd5kj7d/image.png",
+      "ImageOld": "https://www.whats-on-netflix.com/wp-content/uploads/2021/08/netflix-library-photo-scaled.jpg",
       "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionKTMY.json",
       "Type": "Movies",
       "isUnlocked": true
     },
     {
       "Title": "Ελληνικές Ταινίες \n (Σύγχρονες)",
-      "Image": "https://i.ibb.co/2P081Xh/image.png",
-      "ImageOld": "https://urbanlife.gr/wp-content/uploads/2020/11/BeFunky-collage-scaled-e1604316199306.jpg",
+      "Image": "https://urbanlife.gr/wp-content/uploads/2020/11/BeFunky-collage-scaled-e1604316199306.jpg",
       "JSON": "https://api.github.com/repos/med1altd/app.com.med1altd.greekmovies/contents/basicVersionET.json",
       "Type": "Movies",
       "isUnlocked": true
