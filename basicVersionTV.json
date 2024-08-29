@@ -11,7 +11,6 @@
     {
       "Title": "ERT1",
       "Image": "https://i.postimg.cc/C5csx9bG/ert1.png",
-      "Video": "mpd",
       "Video": "https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24723b/index.mpd",
       "VideoOld2": "https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24613/index.mpd",
       "VideoOld": "https://ertflix.s.llnwi.net/ertlive/ert1/default/index.mpd",
@@ -86,7 +85,8 @@
     {
       "Title": "ERT3",
       "Image": "https://iili.io/HviqRff.png",
-      "Video": "https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24723a/index.mpd",
+      "Video": "mpd",
+      "VideoOld3": "https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24723a/index.mpd",
       "VideoOld2": "https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24620/index.mpd",
       "VideoOld": "mpd",
       "LiveUrl": "https://programmatileorasis.gr/free/6/%CE%95%CE%A1%CE%A43",
