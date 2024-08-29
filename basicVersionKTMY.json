@@ -8,6 +8,19 @@
   ],
   "Movies": [
     {
+      "Fetch": "Voe",
+      "TMDB_ID": 653346,
+      "Title": "Kingdom of the Planet of the Apes",
+      "ImageMain": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+      "Video": "lhaczjsdhm5h",
+      "DirectVideo": "http://gmtcloud.site/video/movies/tt0263488.mp4?id=0",
+      "isUnlocked": true,
+      "VOE_ID": "lhaczjsdhm5h",
+      "runtime": 145,
+      "genres": "Science Fiction, Adventure, Action",
+      "year": "2024"
+    },
+    {
       "Fetch": "GamatoTV",
       "TMDB_ID": 8922,
       "Title": "Jeepers Creepers",
