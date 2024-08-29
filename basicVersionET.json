@@ -8,14 +8,6 @@
   ],
   "Movies": [
     {
-      "Fetch": "",
-      "TMDB_ID": "680142",
-      "ImageMain": "https://play-lh.googleusercontent.com/wOfoKyGDP1E51NE5ntMLCwO_hovd54xcvXdwF2AkfCBSrBsrLB22egYh0Dpd5kd1PA=w600-h300-pc0xffffff-pd",
-      "Title": "ΚΟΣΜΟΤΕ",
-      "Video": "https://edge1.ultrastreamlinks.online/es8/tracks-v1a1/mono.m3u8?md5=pxH9cwOfm8HsJVAvbc7vng&expires=1724971276",
-      "isUnlocked": true
-    },
-    {
       "Fetch": "MediaFire",
       "TMDB_ID": "680142",
       "ImageMain": "https://image.tmdb.org/t/p/original/euMDIbyM1AaqWclSlbYJz6DKXor.jpg",
