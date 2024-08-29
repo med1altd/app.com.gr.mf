@@ -209,7 +209,7 @@
     {
       "TV": [
         {
-          "Url": "https://api.github.com/repos/med1altd/app.com.med1a.movieflix/contents/basicVersionTV.json"
+          "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/basicVersionTV.json"
         }
       ],
       "Movies": [
@@ -265,7 +265,7 @@
         {
           "TV": [
             {
-              "Url": "https://api.github.com/repos/med1altd/app.com.med1a.movieflix/contents/greekVersionTV.json"
+              "Url": "https://api.github.com/repos/med1altd/app.com.gr.mf/contents/greekVersionTV.json"
             }
           ],
           "Movies": [
