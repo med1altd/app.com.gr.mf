@@ -485,6 +485,18 @@
     }
   ],
   "Filters": {
+    "Year": [
+      {
+        "Min": 1940,
+        "Max": 2024
+      }
+    ],
+    "Runtime": [
+      {
+        "Min": 0,
+        "Max": 300
+      }
+    ],
     "Genres": [
       {
         "Title": "Action"
