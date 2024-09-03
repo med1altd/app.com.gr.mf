@@ -78,12 +78,7 @@
       "MessageAdditionalWay": "Image",
       "MessageImageUrl": "https://www.sportime.gr/wp-content/uploads/2024/05/olympiakos2.jpg",
       "DMCAButtonEnabled": false,
-
-
-
-      
-      
-      "enabledAPIAdRequestsAndMatchRateCheck": true,        
+      "enabledAPIAdRequestsAndMatchRateCheck": true,
       "adRequestsMinimum": 0,
       "adRequestsMaximum": 135,
       "matchRateMinimum": 98.8,
@@ -488,5 +483,30 @@
     {
       "VidHide": "javascript:(function(){var playButton = document.querySelector('.jw-icon.jw-icon-display');if (playButton) {playButton.click();}})()"
     }
-  ]
+  ],
+  "Filters": {
+    "Genres": [
+      {
+        "Title": "Action"
+      },
+      {
+        "Title": "Comedy"
+      },
+      {
+        "Title": "Drama"
+      },
+      {
+        "Title": "Horror"
+      },
+      {
+        "Title": "Romance"
+      },
+      {
+        "Title": "Sci-Fi"
+      },
+      {
+        "Title": "Thriller"
+      }
+    ]
+  }
 }
