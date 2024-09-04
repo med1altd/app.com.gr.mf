@@ -520,5 +520,52 @@
         "Title": "Thriller"
       }
     ]
-  }
+  },
+  "Sort Options": [
+    {
+      "GreekTitle": "Α -> Ω: Αύξουσα αλφαβητική ταξινόμηση",
+      "Title": "A -> Z: Ascending alphabetical order",
+      "enabled": true
+    },
+    {
+      "GreekTitle": "Ω -> Α: Φθίνουσα αλφαβητική ταξινόμηση",
+      "Title": "Z -> A: Descending alphabetical order",
+      "enabled": true
+    },
+    {
+      "GreekTitle": "Διάρκεια: Μικρότερη -> Μεγαλύτερη",
+      "Title": "Duration: Shortest -> Longest",
+      "enabled": true
+    },
+    {
+      "GreekTitle": "Διάρκεια: Μεγαλύτερη -> Μικρότερη",
+      "Title": "Duration: Longest -> Shortest",
+      "enabled": true
+    },
+    {
+      "GreekTitle": "Κυκλοφορίες: Νεότερες -> Παλαιότερες",
+      "Title": "Releases: Newest -> Oldest",
+      "enabled": true
+    },
+    {
+      "GreekTitle": "Κυκλοφορίες: Παλαιότερες -> Νεότερες",
+      "Title": "Releases: Oldest -> Newest",
+      "enabled": true
+    },
+    {
+      "GreekTitle": "Προστέθηκαν: Πρόσφατα -> Παλαιότερα",
+      "Title": "Added: Recently -> Earlier",
+      "enabled": true
+    },
+    {
+      "GreekTitle": "Προστέθηκαν: Παλαιότερα -> Πρόσφατα",
+      "Title": "Added: Earlier -> Recently",
+      "enabled": true
+    },
+    {
+      "GreekTitle": "Τυχαία σειρά",
+      "Title": "Random order",
+      "enabled": true
+    }
+  ]
 }
