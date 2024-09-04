@@ -82,7 +82,9 @@
       "adRequestsMinimum": 0,
       "adRequestsMaximum": 135,
       "matchRateMinimum": 98.8,
-      "notMatchedAdRequestsLimit": 1
+      "notMatchedAdRequestsLimit": 1,
+      "enabledSortMovies": true,
+      "enabledFilterMovies": true
     }
   ],
   "Introduction": [
