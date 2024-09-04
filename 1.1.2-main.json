@@ -560,7 +560,7 @@
     {
       "GreekTitle": "Προστέθηκαν: Παλαιότερα -> Πρόσφατα",
       "Title": "Added: Earlier -> Recently",
-      "enabled": true
+      "enabled": false
     },
     {
       "GreekTitle": "Τυχαία σειρά",
