@@ -83,7 +83,7 @@
       "adRequestsMaximum": 1000,
       "matchRateMinimum": 98.8,
       "notMatchedAdRequestsLimit": 1,
-      "enabledSortMovies": false,
+      "enabledSortMovies": true,
       "enabledFilterMovies": true
     }
   ],
