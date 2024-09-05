@@ -1,1 +1,46 @@
-WwogICAgewogICAgICAgICJoZWFkZXIiOiB7CiAgICAgICAgICAgICJkYXRlUmFuZ2UiOiB7CiAgICAgICAgICAgICAgICAic3RhcnREYXRlIjogewogICAgICAgICAgICAgICAgICAgICJ5ZWFyIjogMjAyNCwKICAgICAgICAgICAgICAgICAgICAibW9udGgiOiA5LAogICAgICAgICAgICAgICAgICAgICJkYXkiOiA1CiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgImVuZERhdGUiOiB7CiAgICAgICAgICAgICAgICAgICAgInllYXIiOiAyMDI0LAogICAgICAgICAgICAgICAgICAgICJtb250aCI6IDksCiAgICAgICAgICAgICAgICAgICAgImRheSI6IDUKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwKICAgICAgICAgICAgImxvY2FsaXphdGlvblNldHRpbmdzIjogewogICAgICAgICAgICAgICAgImN1cnJlbmN5Q29kZSI6ICJFVVIiCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9LAogICAgewogICAgICAgICJyb3ciOiB7CiAgICAgICAgICAgICJkaW1lbnNpb25WYWx1ZXMiOiB7CiAgICAgICAgICAgICAgICAiREFURSI6IHsKICAgICAgICAgICAgICAgICAgICAidmFsdWUiOiAiMjAyNDA5MDUiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICJtZXRyaWNWYWx1ZXMiOiB7CiAgICAgICAgICAgICAgICAiQURfUkVRVUVTVFMiOiB7CiAgICAgICAgICAgICAgICAgICAgImludGVnZXJWYWx1ZSI6ICI2NjciCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgIk1BVENIX1JBVEUiOiB7CiAgICAgICAgICAgICAgICAgICAgImRvdWJsZVZhbHVlIjogMC45OTg1MDA3NDk2MjUxODc0CiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgIk1BVENIRURfUkVRVUVTVFMiOiB7CiAgICAgICAgICAgICAgICAgICAgImludGVnZXJWYWx1ZSI6ICI2NjYiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9LAogICAgewogICAgICAgICJmb290ZXIiOiB7CiAgICAgICAgICAgICJtYXRjaGluZ1Jvd0NvdW50IjogIjEiCiAgICAgICAgfQogICAgfQpd
+[
+    {
+        "header": {
+            "dateRange": {
+                "startDate": {
+                    "year": 2024,
+                    "month": 9,
+                    "day": 5
+                },
+                "endDate": {
+                    "year": 2024,
+                    "month": 9,
+                    "day": 5
+                }
+            },
+            "localizationSettings": {
+                "currencyCode": "EUR"
+            }
+        }
+    },
+    {
+        "row": {
+            "dimensionValues": {
+                "DATE": {
+                    "value": "20240905"
+                }
+            },
+            "metricValues": {
+                "AD_REQUESTS": {
+                    "integerValue": "675"
+                },
+                "MATCH_RATE": {
+                    "doubleValue": 0.9985185185185185
+                },
+                "MATCHED_REQUESTS": {
+                    "integerValue": "674"
+                }
+            }
+        }
+    },
+    {
+        "footer": {
+            "matchingRowCount": "1"
+        }
+    }
+]
