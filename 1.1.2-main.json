@@ -501,32 +501,80 @@
     ],
     "Genres": [
       {
-        "GreekTitle": "Action",
+        "GreekTitle": "Δράση",
         "Title": "Action"
       },
       {
-        "GreekTitle": "Comedy",
-        "Title": "Comedy"
+        "GreekTitle": "Περιπέτεια",
+        "Title": "Adventure"
       },
       {
-        "GreekTitle": "Drama",
-        "Title": "Δράμα"
-      },
-      {
-        "GreekTitle": "Horror",
+        "GreekTitle": "Τρόμου",
         "Title": "Horror"
       },
       {
-        "GreekTitle": "Romance",
+        "GreekTitle": "Ρομαντική",
         "Title": "Romance"
       },
       {
-        "GreekTitle": "Sci-Fi",
-        "Title": "Sci-Fi"
+        "GreekTitle": "Πολεμική",
+        "Title": "War"
       },
       {
-        "GreekTitle": "Thriller",
+        "GreekTitle": "Ιστορική",
+        "Title": "History"
+      },
+      {
+        "GreekTitle": "Επιστημονική Φαντασία",
+        "Title": "Science Fiction"
+      },
+      {
+        "GreekTitle": "Γουέστερν",
+        "Title": "Western"
+      },
+      {
+        "GreekTitle": "Ντοκιμαντέρ",
+        "Title": "Documentary"
+      },
+      {
+        "GreekTitle": "Δράμα",
+        "Title": "Drama"
+      },
+      {
+        "GreekTitle": "Θρίλερ",
         "Title": "Thriller"
+      },
+      {
+        "GreekTitle": "Τηλεταινία",
+        "Title": "TV Movie"
+      },
+      {
+        "GreekTitle": "Μουσική",
+        "Title": "Music"
+      },
+      {
+        "GreekTitle": "Εγκλήματος",
+        "Title": "Crime"
+      },
+      {
+        "GreekTitle": "Φαντασίας",
+        "Title": "Fantasy"
+      },
+      {
+        "GreekTitle": "Οικογενειακή",
+        "Title": "Family"
+      },
+      {
+        "GreekTitle": "Κινουμένων Σχεδίων",
+        "Title": "Animation"
+      },
+      {
+        "GreekTitle": "Μυστηρίου",
+        "Title": "Mystery"
+      },
+      {
+        "GreekTitle": "Κωμωδία",
+        "Title": "Comedy"
       }
     ]
   },
