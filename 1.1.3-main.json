@@ -172,7 +172,7 @@
       "delayBannerVideoStreamingActivity": 90000,
       "delayInterstitialVideoStreamingActivity": 120000,
 
-      "waitAppOpenMainActivity": false,
+      "waitAppOpenMainActivity": true,
       "waitInterstitialRewardedMainActivity": true,
       "waitBannerLiveStreamingActivity": true,
       "waitInterstitialLiveStreamingActivity": true,
