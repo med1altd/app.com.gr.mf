@@ -171,6 +171,17 @@
       "delayRewardedSeriesInfoActivity": 30000,
       "delayBannerVideoStreamingActivity": 90000,
       "delayInterstitialVideoStreamingActivity": 120000,
+
+      "waitAppOpenMainActivity": true,
+      "waitInterstitialRewardedMainActivity": true,
+      "waitBannerLiveStreamingActivity": true,
+      "waitInterstitialLiveStreamingActivity": true,
+      "waitInterstitialRewardedMoviesInfoActivity": true,
+      "waitRewardedMoviesInfoActivity": true,
+      "waitInterstitialRewardedSeriesInfoActivity": true,
+      "waitRewardedSeriesInfoActivity": true,
+      "waitBannerVideoStreamingActivity": true,
+      "waitInterstitialVideoStreamingActivity": true,
       "Pre-Delay": [
         {
           "AdMob": [
