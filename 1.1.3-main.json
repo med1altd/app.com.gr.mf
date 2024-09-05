@@ -84,7 +84,9 @@
       "matchRateMinimum": 98.8,
       "notMatchedAdRequestsLimit": 1,
       "enabledSortMovies": true,
-      "enabledFilterMovies": true
+      "enabledFilterMovies": true,
+      "isAppReviewActive": true,
+      "AppOpensRequiredBeforeAppReview": 10
     }
   ],
   "Introduction": [
