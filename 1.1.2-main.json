@@ -501,24 +501,31 @@
     ],
     "Genres": [
       {
+        "GreekTitle": "Action",
         "Title": "Action"
       },
       {
+        "GreekTitle": "Comedy",
         "Title": "Comedy"
       },
       {
+        "GreekTitle": "Drama",
         "Title": "Drama"
       },
       {
+        "GreekTitle": "Horror",
         "Title": "Horror"
       },
       {
+        "GreekTitle": "Romance",
         "Title": "Romance"
       },
       {
+        "GreekTitle": "Sci-Fi",
         "Title": "Sci-Fi"
       },
       {
+        "GreekTitle": "Thriller",
         "Title": "Thriller"
       }
     ]
