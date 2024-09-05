@@ -170,7 +170,7 @@
       "delayInterstitialRewardedSeriesInfoActivity": 1200000,
       "delayRewardedSeriesInfoActivity": 30000,
       "delayBannerVideoStreamingActivity": 90000,
-      "delayInterstitialVideoStreamingActivity": 1800000,
+      "delayInterstitialVideoStreamingActivity": 1,
       "Pre-Delay": [
         {
           "AdMob": [
