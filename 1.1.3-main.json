@@ -161,7 +161,7 @@
       "SeriesInfoDelayRewardedAdMob": 10000,
       "MoviesInfoDelayRewardedUnity": 0,
       "SeriesInfoDelayRewardedUnity": 0,
-      "delayAppOpenMainActivity": 300,
+      "delayAppOpenMainActivity": 3000000,
       "delayInterstitialRewardedMainActivity": 120000,
       "delayBannerLiveStreamingActivity": 90000,
       "delayInterstitialLiveStreamingActivity": 120000,
@@ -172,7 +172,7 @@
       "delayBannerVideoStreamingActivity": 90000,
       "delayInterstitialVideoStreamingActivity": 120000,
 
-      "waitAppOpenMainActivity": true,
+      "waitAppOpenMainActivity": false,
       "waitInterstitialRewardedMainActivity": true,
       "waitBannerLiveStreamingActivity": true,
       "waitInterstitialLiveStreamingActivity": true,
