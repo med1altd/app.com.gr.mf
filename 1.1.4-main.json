@@ -82,7 +82,7 @@
       "adRequestsMinimum": 0,
       "adRequestsMaximum": 1000,
       "matchRateMinimum": 98.8,
-      "notMatchedAdRequestsLimit": 1,
+      "notMatchedAdRequestsLimit": 5,
       "enabledSortMovies": true,
       "enabledFilterMovies": true,
       "isAppReviewActive": true,
