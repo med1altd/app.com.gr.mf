@@ -86,7 +86,8 @@
       "enabledSortMovies": true,
       "enabledFilterMovies": true,
       "isAppReviewActive": true,
-      "AppOpensRequiredBeforeAppReview": 10
+      "AppOpensRequiredBeforeAppReview": 10,
+      "imagesReloadTimes": 3
     }
   ],
   "Introduction": [
