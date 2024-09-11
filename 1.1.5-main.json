@@ -87,7 +87,7 @@
       "isAppReviewActive": true,
       "AppOpensRequiredBeforeAppReview": 10,
       "imagesReloadTimes": 3,
-      "isIntroductionRequired": true
+      "isIntroductionRequired": false
     }
   ],
   "Introduction": [
