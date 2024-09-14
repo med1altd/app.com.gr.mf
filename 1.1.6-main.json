@@ -80,7 +80,7 @@
       "enabledAPIAdRequestsAndMatchRateCheck": true,
       "adRequestsMinimum": 0,
       "adRequestsMaximum": 200,
-      "matchRateMinimum": 98.0,
+      "matchRateMinimum": 0.0,
       "notMatchedAdRequestsLimit": 500,
       "enabledSortMovies": true,
       "enabledFilterMovies": true,
