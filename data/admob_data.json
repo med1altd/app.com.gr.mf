@@ -5,12 +5,12 @@
                 "startDate": {
                     "year": 2024,
                     "month": 9,
-                    "day": 18
+                    "day": 19
                 },
                 "endDate": {
                     "year": 2024,
                     "month": 9,
-                    "day": 18
+                    "day": 19
                 }
             },
             "localizationSettings": {
@@ -19,28 +19,6 @@
         }
     },
     {
-        "row": {
-            "dimensionValues": {
-                "DATE": {
-                    "value": "20240918"
-                }
-            },
-            "metricValues": {
-                "AD_REQUESTS": {
-                    "integerValue": "150"
-                },
-                "MATCH_RATE": {
-                    "doubleValue": 0.04666666666666667
-                },
-                "MATCHED_REQUESTS": {
-                    "integerValue": "7"
-                }
-            }
-        }
-    },
-    {
-        "footer": {
-            "matchingRowCount": "1"
-        }
+        "footer": {}
     }
 ]
