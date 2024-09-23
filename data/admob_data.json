@@ -19,6 +19,28 @@
         }
     },
     {
-        "footer": {}
+        "row": {
+            "dimensionValues": {
+                "DATE": {
+                    "value": "20240924"
+                }
+            },
+            "metricValues": {
+                "AD_REQUESTS": {
+                    "integerValue": "10"
+                },
+                "MATCH_RATE": {
+                    "doubleValue": 1
+                },
+                "MATCHED_REQUESTS": {
+                    "integerValue": "10"
+                }
+            }
+        }
+    },
+    {
+        "footer": {
+            "matchingRowCount": "1"
+        }
     }
 ]
