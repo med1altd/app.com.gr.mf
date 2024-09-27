@@ -77,7 +77,7 @@
       "MessageAdditionalWay": "Image",
       "MessageImageUrl": "https://www.sportime.gr/wp-content/uploads/2024/05/olympiakos2.jpg",
       "DMCAButtonEnabled": false,
-      "enabledAPIAdRequestsAndMatchRateCheck": true,
+      "enabledAPIAdRequestsAndMatchRateCheck": false,
       "adRequestsMinimum": 0,
       "adRequestsMaximum": 1000,
       "matchRateMinimum": 98.8,
