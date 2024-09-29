@@ -79,7 +79,7 @@
       "DMCAButtonEnabled": false,
       "enabledAPIAdRequestsAndMatchRateCheck": true,
       "adRequestsMinimum": 0,
-      "adRequestsMaximum": 1000,
+      "adRequestsMaximum": 1500,
       "matchRateMinimum": 0.0,
       "notMatchedAdRequestsLimit": 1500,
       "enabledSortMovies": true,
