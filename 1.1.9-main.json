@@ -173,6 +173,12 @@
       "delayBannerVideoStreamingActivity": 90000,
       "delayInterstitialVideoStreamingActivity": 60000,
 
+      "enabledIntervalImpression": true,
+      "enabledIntervalClick": true,
+
+      "intervalImpressionInMs": 3600000,
+      "intervalClickInMs": 3600000,
+      
       "waitAppOpenMainActivity": false,
       "waitInterstitialRewardedMainActivity": true,
       "waitBannerLiveStreamingActivity": true,
