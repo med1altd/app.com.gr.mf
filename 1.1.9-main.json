@@ -5,7 +5,7 @@
       "isWorking": true,
       "isTest": false,
       "showAds": true,
-      "isShowingAdsWebView": true,
+      "isShowingAdsWebView": false,
       "showBannerAds": false,
       "showInterstitialAds": true,
       "showInterstitialAdsLive": true,
