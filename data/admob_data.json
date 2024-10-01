@@ -27,13 +27,13 @@
             },
             "metricValues": {
                 "AD_REQUESTS": {
-                    "integerValue": "112"
+                    "integerValue": "132"
                 },
                 "MATCH_RATE": {
-                    "doubleValue": 0.044642857142857144
+                    "doubleValue": 0.045454545454545456
                 },
                 "MATCHED_REQUESTS": {
-                    "integerValue": "5"
+                    "integerValue": "6"
                 }
             }
         }
