@@ -37,7 +37,7 @@
       "ImageMain": "https://image.tmdb.org/t/p/original/o1sVOGFvmastUs6LApZWusSTuVu.jpg",
       "Title": "Η Ρουτίνα",
       "Video": "0wo6e0rk6836",
-      "isUnlocked": true
+      "isUnlocked": false
     },
     {
       "Fetch": "MediaFire",
