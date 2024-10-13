@@ -5,12 +5,12 @@
                 "startDate": {
                     "year": 2024,
                     "month": 10,
-                    "day": 5
+                    "day": 13
                 },
                 "endDate": {
                     "year": 2024,
                     "month": 10,
-                    "day": 5
+                    "day": 13
                 }
             },
             "localizationSettings": {
@@ -22,18 +22,36 @@
         "row": {
             "dimensionValues": {
                 "DATE": {
-                    "value": "20241005"
+                    "value": "20241013"
                 }
             },
             "metricValues": {
                 "AD_REQUESTS": {
-                    "integerValue": "1562"
+                    "integerValue": "463"
                 },
-                "MATCH_RATE": {
-                    "doubleValue": 0.0012804097311139564
+                "CLICKS": {
+                    "integerValue": "0"
+                },
+                "ESTIMATED_EARNINGS": {
+                    "microsValue": "59615"
+                },
+                "IMPRESSIONS": {
+                    "integerValue": "10"
+                },
+                "IMPRESSION_CTR": {
+                    "doubleValue": 0
+                },
+                "IMPRESSION_RPM": {
+                    "doubleValue": 5.9615984898660175
                 },
                 "MATCHED_REQUESTS": {
-                    "integerValue": "2"
+                    "integerValue": "19"
+                },
+                "MATCH_RATE": {
+                    "doubleValue": 0.04103671706263499
+                },
+                "SHOW_RATE": {
+                    "doubleValue": 0.5263157894736842
                 }
             }
         }
