@@ -27,13 +27,10 @@
             },
             "metricValues": {
                 "AD_REQUESTS": {
-                    "integerValue": "471"
+                    "integerValue": "473"
                 },
                 "CLICKS": {
                     "integerValue": "0"
-                },
-                "ESTIMATED_EARNINGS": {
-                    "microsValue": "59615"
                 },
                 "IMPRESSIONS": {
                     "integerValue": "10"
@@ -41,14 +38,11 @@
                 "IMPRESSION_CTR": {
                     "doubleValue": 0
                 },
-                "IMPRESSION_RPM": {
-                    "doubleValue": 5.9615984898660175
-                },
                 "MATCHED_REQUESTS": {
                     "integerValue": "19"
                 },
                 "MATCH_RATE": {
-                    "doubleValue": 0.040339702760084924
+                    "doubleValue": 0.040169133192389
                 },
                 "SHOW_RATE": {
                     "doubleValue": 0.5263157894736842
