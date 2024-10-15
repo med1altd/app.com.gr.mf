@@ -190,7 +190,7 @@
         {
             "InstagramUserName": "med1altd",
             "isInstagramVisisible": false,
-            "isRatingVisible": true,
+            "isRatingVisible": false,
             "RatingUrl": "https://play.google.com/store/apps/details?id=com.gr.mf",
             "isInfoVisible": true,
             "InfoText": "MovieFlix Privacy Policy will be updated soon...",
