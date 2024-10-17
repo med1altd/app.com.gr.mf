@@ -154,8 +154,8 @@
   "Ads": [
     {
       "APP_ID_AdMob": "ca-app-pub-1669215305824306~6154764322",
-      "Banner_Id_AdMob": "",
-      "Banner_Id_AdMobReal": "",
+      "Banner_Id_AdMob": "ca-app-pub-1669215305824306/3825319737",
+      "Banner_Id_AdMobReal": "ca-app-pub-1669215305824306/3825319737",
       "Interstitial_Id_AdMob": "",
       "Interstitial_Id_AdMobReal": "",
       "Rewarded_Id_AdMob": "",
