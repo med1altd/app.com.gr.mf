@@ -7,7 +7,7 @@
       "showAds": false,
       "isShowingAdsWebView": false,
       "showBannerAds": false,
-      "showCollapsibleBannerAds": true,
+      "showCollapsibleBannerAds": false,
       "showInterstitialAds": false,
       "showInterstitialAdsLive": false,
       "showInterstitialAdsVideo": false,
