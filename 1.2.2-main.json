@@ -91,7 +91,7 @@
       "imagesReloadTimes": 3,
       "isIntroductionRequired": false,
 
-      "shouldCheckOrganicUserBeforeAdMobConsent": false,
+      "shouldCheckOrganicUserBeforeAdMobConsent": true,
       
       "enabledPrompting": false,
       
