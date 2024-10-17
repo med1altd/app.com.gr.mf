@@ -56,7 +56,7 @@
       "AddContentFormUrlWorking": "https://forms.gle/DJHinA68xKMTYaa78",
       "checkForUpdates": false,
       "AdsType": "AdMob",
-      "BannerAdsType": "Unity",
+      "BannerAdsType": "AdMob",
       "InterstitialAdsType": "AdMob",
       "RewardedAdsType": "Unity",
       "RewardedInterstitialAdsType": "Unity",
