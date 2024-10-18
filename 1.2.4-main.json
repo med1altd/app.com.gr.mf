@@ -93,7 +93,7 @@
 
       "shouldCheckOrganicUserBeforeAdMobConsent": true,
       
-      "enabledPrompting": false,
+      "enabledPrompting": true,
       
       "enabledPromptForOnlyGooglePlayStoreUser": false,
       "gifUrlPromptForOnlyGooglePlayStoreUserGR": "https://movieflixforusers.vercel.app/re-install_movieflix_gr.gif",
