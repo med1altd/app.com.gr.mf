@@ -29620,7 +29620,7 @@
       "Title": "Aquaman and the Lost Kingdom",
       "ImageMain": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg",
       "Video": "15952",
-      "DirectVideo": "http://gmtcloud.site/video/movies/The%20Lost%20King2022.mp4?id=0",
+      "DirectVideo": "Old Other Movie (http://gmtcloud.site/video/movies/The%20Lost%20King2022.mp4?id=0)",
       "isUnlocked": true,
       "Voe_ID_Backup_Deleted": "a5t0syttq9b3",
       "Runtime": 124,
@@ -29637,6 +29637,8 @@
       ],
       "Year": "2023",
       "Voe_ID_Expired": "di7s1elha1zr",
+      "SubtitlesUrl": "https://github.com/7keyzbeatz/GreekSubtitles/raw/main/subs/572802.srt",
+      "enabledSubtitles": true,
       "Voe_ID": "mryef2tdttax",
       "queueID": 2737828
     },
