@@ -77959,7 +77959,8 @@
       "ImageMain": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
       "Video": "45772",
       "DirectVideo": "http://gmtcloud.site/video/movies/Furiosa.A.Mad.Max.Saga.mp4?id=0",
-      "isUnlocked": true,
+      "isUnlocked": false,
+      "DMCA": true,
       "Voe_ID_Backup_Deleted": "iey9ejtlpis5",
       "Runtime": 149,
       "Genres": [
