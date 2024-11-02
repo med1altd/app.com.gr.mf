@@ -4,7 +4,7 @@
       "isLive": true,
       "isWorking": true,
       "isTest": false,
-      "showAds": false,
+      "showAds": true,
       "isShowingAdsWebView": false,
       "showBannerAds": false,
       "showCollapsibleBannerAds": true,
@@ -198,8 +198,8 @@
       "enabledIntervalImpression": true,
       "enabledIntervalClick": true,
 
-      "intervalImpressionInMs": 172800000,
-      "intervalClickInMs": 172800000,
+      "intervalImpressionInMs": 3600000,
+      "intervalClickInMs": 3600000,
       
       "waitAppOpenMainActivity": false,
       "waitInterstitialRewardedMainActivity": true,
