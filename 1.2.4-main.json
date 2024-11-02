@@ -9,7 +9,7 @@
       "showBannerAds": false,
       "showCollapsibleBannerAds": true,
       "showInterstitialAds": true,
-      "showInterstitialAdsLive": false,
+      "showInterstitialAdsLive": true,
       "showInterstitialAdsVideo": false,
       "showRewardedInterstitialAds": false,
       "showAppOpenAds": false,
