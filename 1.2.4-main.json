@@ -186,7 +186,7 @@
       "SeriesInfoDelayRewardedUnity": 0,
       "delayAppOpenMainActivity": 3000000,
       "delayInterstitialRewardedMainActivity": 120000,
-      "delayBannerLiveStreamingActivity": 1200000,
+      "delayBannerLiveStreamingActivity": 12,
       "delayInterstitialLiveStreamingActivity": 120000,
       "delayInterstitialRewardedMoviesInfoActivity": 120000,
       "delayRewardedMoviesInfoActivity": 30000,
