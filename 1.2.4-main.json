@@ -57,7 +57,7 @@
       "checkForUpdates": false,
       "AdsType": "AdMob",
       "BannerAdsType": "AdMob",
-      "InterstitialAdsType": "AdMob",
+      "InterstitialAdsType": "CAS",
       "RewardedAdsType": "Unity",
       "RewardedInterstitialAdsType": "Unity",
       "AppOpenAdsType": "AdMob",
