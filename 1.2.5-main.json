@@ -55,7 +55,7 @@
       "AddContentFormUrl": "https://movieflixforusers.vercel.app/addcontentform.html",
       "AddContentFormUrlWorking": "https://forms.gle/DJHinA68xKMTYaa78",
       "checkForUpdates": false,
-      "AdsType": "CAS",
+      "AdsType": "AdMob",
       "BannerAdsType": "CAS",
       "InterstitialAdsType": "CAS",
       "RewardedAdsType": "Unity",
