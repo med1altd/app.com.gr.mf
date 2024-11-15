@@ -26,7 +26,7 @@
       "SeriesInfoDelay": 240000,
       "MaxDailyAdRequests": 100,
       "isActivationRequired": true,
-      "promote": true,
+      "promote": false,
       "promoteTitle": "Νέα Ενημέρωση Διαθέσιμη",
       "promoteImageUrl": "https://i.ibb.co/ydwQ2fM/DMCA.png",
       "promoteButtonTitle": "ΕΝΗΜΕΡΩΣΗ ΕΦΑΡΜΟΓΗΣ",
