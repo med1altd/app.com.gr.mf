@@ -153,11 +153,11 @@
   ],
   "Ads": [
     {
-      "APP_ID_AdMob": "ca-app-pub-1669215305824306~6154764322",
-      "Banner_Id_AdMob": "ca-app-pub-1669215305824306/3825319737",
-      "Banner_Id_AdMobReal": "ca-app-pub-1669215305824306/3825319737",
-      "Interstitial_Id_AdMob": "ca-app-pub-1669215305824306/4255093367",
-      "Interstitial_Id_AdMobReal": "ca-app-pub-1669215305824306/4255093367",
+      "APP_ID_AdMob": "ca-app-pub-4246514396534912~5037432238",
+      "Banner_Id_AdMob": "ca-app-pub-4246514396534912/3891871525",
+      "Banner_Id_AdMobReal": "ca-app-pub-4246514396534912/3891871525",
+      "Interstitial_Id_AdMob": "ca-app-pub-4246514396534912/1265708180",
+      "Interstitial_Id_AdMobReal": "ca-app-pub-4246514396534912/1265708180",
       "Rewarded_Id_AdMob": "",
       "Rewarded_Id_AdMobReal": "",
       "AppOpen_Id_AdMob": "",
