@@ -11,7 +11,7 @@
     {
       "Title": "ERT1",
       "Image": "https://i.postimg.cc/C5csx9bG/ert1.png",
-      "Video": "https://ertflix.akamaized.net/ertlive/ert2/clrdef24723b/index.m3u8",
+      "Video": "https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/index.mpd",
       "VideoOld2": "https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24723b/index.m3u8",
       "VideoOld": "https://ertflix.s.llnwi.net/ertlive/ert1/default/index.mpd",
       "LiveUrl": "https://programmatileorasis.gr/free/18/%CE%95%CE%A1%CE%A41",
@@ -50,7 +50,7 @@
       "Title": "ERT2",
       "Image": "https://i.postimg.cc/ryjJjR7D/ert2.png",
       "VideoOld": "mpd",
-      "Video": "https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/index.m3u8",
+      "Video": "https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/index.mpd",
       "VideoNEW": "https://ertflix.s.llnwi.net/ertlive/ert2/default/index.mpd",
       "LiveUrl": "https://programmatileorasis.gr/free/87/%CE%95%CE%A1%CE%A42",
       "SKey": "ERT 2",
