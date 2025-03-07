@@ -198,8 +198,8 @@
       "enabledIntervalImpression": false,
       "enabledIntervalClick": false,
 
-      "intervalImpressionInMs": 36000000,
-      "intervalClickInMs": 36000000,
+      "intervalImpressionInMs": 1800000,
+      "intervalClickInMs": 3600000,
       
       "waitAppOpenMainActivity": false,
       "waitInterstitialRewardedMainActivity": true,
