@@ -90,21 +90,26 @@
       "AppOpensRequiredBeforeAppReview": 10,
       "imagesReloadTimes": 3,
       "isIntroductionRequired": false,
+
       "shouldCheckOrganicUserBeforeAdMobConsent": true,
+      
       "enabledPrompting": false,
+      
       "enabledPromptForOnlyGooglePlayStoreUser": false,
       "gifUrlPromptForOnlyGooglePlayStoreUserGR": "https://movieflixforusers.vercel.app/re-install_movieflix_gr.gif",
       "gifUrlPromptForOnlyGooglePlayStoreUserEN": "https://movieflixforusers.vercel.app/re-install_movieflix_en.gif",
       "enabledDismissForPromptOnlyGooglePlayStoreUser": true,
+
       "enabledPromptForGooglePlayStoreAndAudienceUser": false,
       "remoteConfigKeyPromptForGooglePlayStoreAndAudienceUser": "show_prompt",
       "gifUrlPromptForGooglePlayStoreAndAudienceUserGR": "https://movieflixforusers.vercel.app/re-install_movieflix_gr.gif",
       "gifUrlPromptForGooglePlayStoreAndAudienceUserEN": "https://movieflixforusers.vercel.app/re-install_movieflix_en.gif",
       "enabledDismissForPromptGooglePlayStoreAndAudienceUser": false,
+
       "enabledPromptForNotGooglePlayStoreUser": false,
       "gifUrlPromptForNotGooglePlayStoreUserGR": "https://movieflixforusers.vercel.app/re-install_movieflix_gr.gif",
       "gifUrlPromptForNotGooglePlayStoreUserEN": "https://movieflixforusers.vercel.app/re-install_movieflix_en.gif",
-      "enabledDismissForPromptNotGooglePlayStoreUser": true
+      "enabledDismissForPromptNotGooglePlayStoreUser": true  
     }
   ],
   "Introduction": [
@@ -189,10 +194,13 @@
       "delayRewardedSeriesInfoActivity": 30000,
       "delayBannerVideoStreamingActivity": 1200000,
       "delayInterstitialVideoStreamingActivity": 120000,
+
       "enabledIntervalImpression": false,
       "enabledIntervalClick": false,
+
       "intervalImpressionInMs": 1800000,
       "intervalClickInMs": 3600000,
+      
       "waitAppOpenMainActivity": false,
       "waitInterstitialRewardedMainActivity": true,
       "waitBannerLiveStreamingActivity": true,
@@ -664,18 +672,6 @@
       "GreekTitle": "Τυχαία σειρά",
       "Title": "Random order",
       "enabled": true
-    }
-  ],
-  "OrganicUsers": [
-    {
-      "checkOrganicUsersList": true,
-      "organicUsersListUrl": "https://api.github.com/repos/med1altd/app.com.med1anetwork.grmf/contents/organic_users.txt",
-      "pseudoUserIdKey": "p",
-      "pseudoUserIdCheck": true,
-      "advertisingIdKey": "a",
-      "advertisingIdCheck": true,
-      "eventKey": "organic_user_based_on_organic_users_list",
-      "eventTrigger": true
     }
   ]
 }
