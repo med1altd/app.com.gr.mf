@@ -431,7 +431,7 @@
       "liveDescription": true,
       "enabledDrm": false,
       "TwitchID": null,
-      "enabledTwitchFetching": false,
+      "enabledTwitchFetching": true,
       "availability": {
         "US": false,
         "DE": false,
