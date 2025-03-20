@@ -430,9 +430,10 @@
       "isUnlocked": true,
       "liveContent": true,
       "liveDescription": true,
+      "requiredJavascriptExecution": true,
       "enabledDrm": false,
       "TwitchID": null,
-      "enabledTwitchFetching": true,
+      "enabledTwitchFetching": false,
       "availability": {
         "US": false,
         "DE": false,
