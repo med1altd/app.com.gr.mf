@@ -215,7 +215,7 @@
       "Image": "https://i.postimg.cc/HLb0yrQs/mega.png",
       "Video": "https://wow.anixa.tv/live/mega/chunklist_.m3u8",
       "VideoOld": "https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S14373792/aGr5KG7RcZ9a/playlist.m3u8",
-      "VideoOld": "https://streamcdnb4-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8",
+      "VideoOld2": "https://streamcdnb4-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8",
       "LiveUrl": "https://programmatileorasis.gr/free/1/MEGA",
       "SKey": "Mega",
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
@@ -572,7 +572,7 @@
     {
       "Title": "THESSALIA TV",
       "Image": "https://i.ibb.co/K7FMzZq/Thessalia-TV.png",
-      "Video": "https://th.cloudskep.com/th/thess_hd/playlist.m3u8",
+      "Video": "https://api.github.com/repos/med1altd/app.com.med1anetwork.grmf/javascripts/contents/fetchTwitchThessaliaTV.js",
       "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
       "SKey": "Thessalia TV",
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
@@ -587,8 +587,9 @@
       "liveContent": true,
       "liveDescription": false,
       "enabledDrm": false,
-      "TwitchID": "livethess03",
+      "TwitchID": "xylagany_paradosi",
       "enabledTwitchFetching": false,
+      "requiredJavascriptExecution": true,
       "availability": {
         "US": true,
         "DE": true,
