@@ -461,7 +461,7 @@
       "StartD": 10,
       "EndD": 0,
       "DrmVideoType": "mpd",
-      "DrmSystem": "widevine",
+      "DrmSystem": "/widevine",
       "DrmAPIKey": "https://www.skai.gr/tv/show/psuchagogia/big-brother/sezon-2024-2025/live",
       "LicenseServerKey": "LicenseServerUrl",
       "DrmChallengeCustomDataKey": "DrmChallengeCustomData",
