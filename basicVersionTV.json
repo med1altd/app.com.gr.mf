@@ -466,7 +466,7 @@
       "LicenseServerKey": "LicenseServerUrl",
       "DrmChallengeCustomDataKey": "DrmChallengeCustomData",
       "drmInfoWay": "View-Source",
-      "quoteChar": "\'",
+      "quoteChar": "'",
       "isUnlocked": true,
       "liveContent": true,
       "liveDescription": true,
