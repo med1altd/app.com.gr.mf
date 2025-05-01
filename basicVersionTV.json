@@ -467,7 +467,7 @@
       "DrmChallengeCustomDataKey": "DrmChallengeCustomData",
       "drmInfoWay": "View-Source",
       "quoteChar": "'",
-      "isUnlocked": true,
+      "isUnlocked": false,
       "liveContent": true,
       "liveDescription": true,
       "requiredJavascriptExecution": false,
