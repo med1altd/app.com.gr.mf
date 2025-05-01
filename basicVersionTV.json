@@ -465,7 +465,7 @@
       "DrmAPIKey": "https://www.skai.gr/tv/show/psuchagogia/big-brother/sezon-2024-2025/live",
       "LicenseServerKey": "LicenseServerUrl",
       "DrmChallengeCustomDataKey": "DrmChallengeCustomData",
-      "drmInfoWay": "",
+      "drmInfoWay": "View-Source",
       "isUnlocked": true,
       "liveContent": true,
       "liveDescription": true,
