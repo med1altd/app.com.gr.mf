@@ -34,9 +34,9 @@
       "TwitchID": null,
       "enabledTwitchFetching": false,
       "availability": {
-        "US": false,
-        "DE": false,
-        "JP": false
+        "US": true,
+        "DE": true,
+        "JP": true
       },
       "enabledEPGByAPI": false,
       "t": "Moneyball [K12]",
