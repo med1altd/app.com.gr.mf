@@ -8,6 +8,7 @@
   ],
   "Movies": [
     {
+      "Fetch": "Voe.sx",
       "TMDB_ID": 1205656,
       "Title": "Hallow Road",
       "ImageMain": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dVsgV7ak6vR5xyXFggooJQinXBg.jpg",
@@ -34,6 +35,7 @@
       "tmdb_status": "exact"
     },
     {
+      "Fetch": "Voe.sx",
       "TMDB_ID": 980477,
       "Title": "Ne Zha 2",
       "ImageMain": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cb5NyNrqiCNNoDkA8FfxHAtypdG.jpg",
@@ -59,6 +61,7 @@
       "tmdb_status": "exact"
     },
     {
+      "Fetch": "Voe.sx",
       "TMDB_ID": 575265,
       "Title": "Mission: Impossible – The Final Reckoning",
       "ImageMain": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
@@ -85,6 +88,7 @@
       "tmdb_status": "exact"
     },
     {
+      "Fetch": "Voe.sx",
       "TMDB_ID": 1319951,
       "Title": "40 Acres",
       "ImageMain": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rAYkyMUPouCnzguUpKCiw3fa5ar.jpg",
@@ -110,6 +114,7 @@
       "tmdb_status": "likely"
     },
     {
+      "Fetch": "Voe.sx",
       "TMDB_ID": 648878,
       "Title": "Eddington",
       "ImageMain": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kg7lrTWGKyzLnj0E7BXl52nro1N.jpg",
@@ -137,3 +142,4 @@
     }
   ]
 }
+
