@@ -8,11 +8,11 @@
   ],
   "Movies": [
     {
-      "Fetch": "Voe.sx",
+      "Fetch": "Voe",
       "TMDB_ID": 1205656,
       "Title": "Hallow Road",
       "ImageMain": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dVsgV7ak6vR5xyXFggooJQinXBg.jpg",
-      "Video": "https://voe.sx/tthesdhou3h2",
+      "Video": "https://Voe/tthesdhou3h2",
       "isUnlocked": true,
       "Runtime": 80,
       "Genres": [
@@ -35,11 +35,11 @@
       "tmdb_status": "exact"
     },
     {
-      "Fetch": "Voe.sx",
+      "Fetch": "Voe",
       "TMDB_ID": 980477,
       "Title": "Ne Zha 2",
       "ImageMain": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cb5NyNrqiCNNoDkA8FfxHAtypdG.jpg",
-      "Video": "https://voe.sx/0eod9rjiyqbu",
+      "Video": "https://Voe/0eod9rjiyqbu",
       "isUnlocked": true,
       "Runtime": 144,
       "Genres": [
@@ -61,11 +61,11 @@
       "tmdb_status": "exact"
     },
     {
-      "Fetch": "Voe.sx",
+      "Fetch": "Voe",
       "TMDB_ID": 575265,
       "Title": "Mission: Impossible – The Final Reckoning",
       "ImageMain": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
-      "Video": "https://voe.sx/xc6lxflssyov",
+      "Video": "https://Voe/xc6lxflssyov",
       "isUnlocked": true,
       "Runtime": 170,
       "Genres": [
@@ -88,11 +88,11 @@
       "tmdb_status": "exact"
     },
     {
-      "Fetch": "Voe.sx",
+      "Fetch": "Voe",
       "TMDB_ID": 1319951,
       "Title": "40 Acres",
       "ImageMain": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rAYkyMUPouCnzguUpKCiw3fa5ar.jpg",
-      "Video": "https://voe.sx/uc6jhhttpg0z",
+      "Video": "https://Voe/uc6jhhttpg0z",
       "isUnlocked": true,
       "Runtime": 113,
       "Genres": [
@@ -114,11 +114,11 @@
       "tmdb_status": "likely"
     },
     {
-      "Fetch": "Voe.sx",
+      "Fetch": "Voe",
       "TMDB_ID": 648878,
       "Title": "Eddington",
       "ImageMain": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kg7lrTWGKyzLnj0E7BXl52nro1N.jpg",
-      "Video": "https://voe.sx/5z8b2dyqineq",
+      "Video": "https://Voe/5z8b2dyqineq",
       "isUnlocked": true,
       "Runtime": 149,
       "Genres": [
@@ -142,4 +142,5 @@
     }
   ]
 }
+
 
