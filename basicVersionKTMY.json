@@ -1,39 +1,130 @@
-{
-  "Main": [
-    {
-      "Live": true,
-      "Video": "",
-      "Fetch": "MediaFire"
-    }
-  ],
-  "Movies": [
-    {
-      "Fetch": "Voe",
-      "TMDB_ID": 653346,
-      "Title": "Kingdom of the Planet of the Apes",
-      "ImageMain": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
-      "Video": "https://voe.sx/d1abc5qlarpy",
-      "DirectVideo": "http://gmtcloud.site/video/movies/tsss3488.mp4?id=0",
-      "isUnlocked": true,
-      "Runtime": 145,
-      "Genres": [
-        {
-          "Title": "Science Fiction"
-        },
-        {
-          "Title": "Adventure"
-        },
-        {
-          "Title": "Action"
-        }
-      ],
-      "Year": "2024",
-      "SubtitlesUrl": "https://github.com/7keyzbeatz/GreekSubtitles/raw/main/subs/653346.srt",
-      "enabledSubtitles": true,
-      "Voe_ID": "d1abc5qlarpy",      
-      "Voe_ID_Disabled": "d1abc5qlarpy",
-      "queueID": 3064593
-    }
-  ]
-}
-
+[
+  {
+    "TMDB_ID": 1205656,
+    "Title": "Hallow Road",
+    "ImageMain": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dVsgV7ak6vR5xyXFggooJQinXBg.jpg",
+    "Video": "https://voe.sx/tthesdhou3h2",
+    "isUnlocked": true,
+    "Runtime": 80,
+    "Genres": [
+      {
+        "Title": "Thriller"
+      },
+      {
+        "Title": "Mystery"
+      },
+      {
+        "Title": "Horror"
+      }
+    ],
+    "Year": "2025",
+    "link": "https://gamatotv.info/69459/",
+    "links": [
+      "http://gmtcloud.best/1-9303/",
+      "http://gmtcloud.best/1-9304/"
+    ],
+    "tmdb_status": "exact"
+  },
+  {
+    "TMDB_ID": 980477,
+    "Title": "Ne Zha 2",
+    "ImageMain": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cb5NyNrqiCNNoDkA8FfxHAtypdG.jpg",
+    "Video": "https://voe.sx/0eod9rjiyqbu",
+    "isUnlocked": true,
+    "Runtime": 144,
+    "Genres": [
+      {
+        "Title": "Animation"
+      },
+      {
+        "Title": "Fantasy"
+      },
+      {
+        "Title": "Adventure"
+      }
+    ],
+    "Year": "2025",
+    "link": "https://gamatotv.info/69454/",
+    "links": [
+      "http://gmtcloud.best/1-9302/"
+    ],
+    "tmdb_status": "exact"
+  },
+  {
+    "TMDB_ID": 575265,
+    "Title": "Mission: Impossible – The Final Reckoning",
+    "ImageMain": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
+    "Video": "https://voe.sx/xc6lxflssyov",
+    "isUnlocked": true,
+    "Runtime": 170,
+    "Genres": [
+      {
+        "Title": "Action"
+      },
+      {
+        "Title": "Adventure"
+      },
+      {
+        "Title": "Thriller"
+      }
+    ],
+    "Year": "2025",
+    "link": "https://gamatotv.info/69437/",
+    "links": [
+      "http://gmtcloud.best/1-9299/",
+      "http://gmtcloud.best/1-9300/"
+    ],
+    "tmdb_status": "exact"
+  },
+  {
+    "TMDB_ID": 1319951,
+    "Title": "40 Acres",
+    "ImageMain": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rAYkyMUPouCnzguUpKCiw3fa5ar.jpg",
+    "Video": "https://voe.sx/uc6jhhttpg0z",
+    "isUnlocked": true,
+    "Runtime": 113,
+    "Genres": [
+      {
+        "Title": "Action"
+      },
+      {
+        "Title": "Thriller"
+      },
+      {
+        "Title": "Drama"
+      }
+    ],
+    "Year": "2025",
+    "link": "https://gamatotv.info/69434/",
+    "links": [
+      "http://gmtcloud.best/1-9298/"
+    ],
+    "tmdb_status": "likely"
+  },
+  {
+    "TMDB_ID": 648878,
+    "Title": "Eddington",
+    "ImageMain": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kg7lrTWGKyzLnj0E7BXl52nro1N.jpg",
+    "Video": "https://voe.sx/5z8b2dyqineq",
+    "isUnlocked": true,
+    "Runtime": 149,
+    "Genres": [
+      {
+        "Title": "Western"
+      },
+      {
+        "Title": "Comedy"
+      },
+      {
+        "Title": "Crime"
+      }
+    ],
+    "Year": "2025",
+    "link": "https://gamatotv.info/69409/",
+    "links": [
+      "http://gmtcloud.best/1-9296/",
+      "http://gmtcloud.best/1-9297/"
+    ],
+    "tmdb_status": "exact"
+  }
+]
