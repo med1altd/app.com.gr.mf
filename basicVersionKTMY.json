@@ -62,6 +62,33 @@
       ],
       "tmdb_status": "exact"
     }, {
+      "Fetch": "Direct",
+      "TMDB_ID": 1205656,
+      "Title": "Test 333",
+      "DirectVideo": "https://archive.org/download/Eddington-movieflix-777/output.m3u8",
+      "ImageMain": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dVsgV7ak6vR5xyXFggooJQinXBg.jpg",
+      "Video": "69459",
+      "isUnlocked": true,
+      "Runtime": 80,
+      "Genres": [
+        {
+          "Title": "Thriller"
+        },
+        {
+          "Title": "Mystery"
+        },
+        {
+          "Title": "Horror"
+        }
+      ],
+      "Year": "2025",
+      "link": "https://gamatotv.info/69459/",
+      "links": [
+        "http://gmtcloud.best/1-9303/",
+        "http://gmtcloud.best/1-9304/"
+      ],
+      "tmdb_status": "exact"
+    },{
       "Fetch": "GamatoTV",
       "TMDB_ID": 1205656,
       "Title": "Hallow Road",
