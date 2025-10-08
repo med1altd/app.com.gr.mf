@@ -674,11 +674,57 @@
       "headers": [
         {
           "name": "Referer",
-          "value": " https://live.thessaliatv.gr/"
+          "value": "https://live.thessaliatv.gr/"
         },
         {
           "name": "Origin",
-          "value": " https://live.thessaliatv.gr"
+          "value": "https://live.thessaliatv.gr"
+        },
+        {
+          "name": "User-Agent",
+          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+        }
+      ]
+    },
+    {
+      "Title": "Test",
+      "Image": "https://i.ibb.co/K7FMzZq/Thessalia-TV.png",
+      "Video": "http://gmtcloud.site/video/movies/Death%20Note%20%20%282006%29.mp4?id=0",
+      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
+      "SKey": "Thessalia TV",
+      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
+      "EndString": "</a><spa",
+      "Start": 44,
+      "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
+      "isUnlocked": true,
+      "liveContent": true,
+      "liveDescription": false,
+      "enabledDrm": false,
+      "TwitchID": "livethess03",
+      "enabledTwitchFetching": false,
+      "requiredJavascriptExecution": false,
+      "availability": {
+        "US": true,
+        "DE": true,
+        "JP": true
+      },
+      "enabledEPGByAPI": false,
+      "t": "[K16] Ξένη Ταινία",
+      "d": "Ξένη ταινία.",
+      "s": 1722207600000,
+      "e": 1722213600000,
+      "headers": [
+        {
+          "name": "Referer",
+          "value": "http://gmtcloud.best/"
+        },
+        {
+          "name": "Origin",
+          "value": "http://gmtcloud.best"
         },
         {
           "name": "User-Agent",
