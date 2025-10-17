@@ -8,11 +8,11 @@
   ],
   "Movies": [
     {
-      "Fetch": "MediaFire",
+      "Fetch": "Voe",
       "TMDB_ID": "680142",
       "ImageMain": "https://image.tmdb.org/t/p/original/euMDIbyM1AaqWclSlbYJz6DKXor.jpg",
       "Title": "Αύριο Περνάω Απέναντι",
-      "Video": "https://www.mediafire.com/file_premium/t4ysbvph7md545n/video/file",
+      "Video": "83oj6qxcghh1",
       "isUnlocked": true
     },
     {
