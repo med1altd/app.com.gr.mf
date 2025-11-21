@@ -8,11 +8,11 @@
   ],
   "Movies": [
     {
-      "Fetch": "DirectVideo",
+      "Fetch": "Direct",
       "TMDB_ID": 980477,
       "Title": "Ne Zha 2",
       "ImageMain": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cb5NyNrqiCNNoDkA8FfxHAtypdG.jpg",
-      "Video": "http://s1.gmtcloud.site/video/moviess/Ne.Zha.II.2025.mp4?id=0",
+      "DirectVideo": "http://s1.gmtcloud.site/video/moviess/Ne.Zha.II.2025.mp4?id=0",
       "isUnlocked": true,
       "Runtime": 144,
       "Genres": [
