@@ -1,3 +1,4 @@
+
 {
   "Main": [
     {
@@ -636,7 +637,7 @@
       },
       "enabledEPGByAPI": false,
       "t": "[K12] Τα Όπλα Του Hollywood (Ε)",
-      "d": "Η πρωτότυπη σειρά ντοκιμαντέρ «Τα όπλα του Hollywood» αναπαριστά σε πραγματικές συνθήκες τις πιο συναρπαστικές σκηνές δράσης με όπλα του αμερικάνικου σινεμά και της τηλεόρασης για να αποδείξει τι είναι αλήθεια και τι μυθοπλασία. Εκρήξεις, ανατινάξεις, εκτοξεύσεις, πιθανές και απίθανες βολές ελέγχονται «επιστημονικά» από τον βετεράνο των ειδικών δυνάμεων Terry Schappert και τον «γκουρού»των όπλων Larry Zanoff.",
+      "d": "Η πρωτότυπη σειρά ντοκιμαντέρ «Τα όπλα του Hollywood» αναπαριστά σε πραγματικές συνθήκες τις πιο συναρπαστικές σκηνές δράσης με όπλα του αμερικάνικου σινεμά και της τηλεόρασης για να αποδείξει τι είναι αλήθεια και τι μυθοπλασία. Εκρήξεις, ανατινάξεις, εκτοξεύσεις, πιθανές και απίθανες βολές ελέγχονται «επιστημονικά» από τον βετεράνο των ειδικών δυνάμεων Terry Schappert και τον «γκουρού»των όπλων Larry Zanoff.",
       "s": 1722208200000,
       "e": 1722211800000
     },
@@ -679,6 +680,52 @@
         {
           "name": "Origin",
           "value": "https://live.thessaliatv.gr"
+        },
+        {
+          "name": "User-Agent",
+          "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+        }
+      ]
+    },
+    {
+      "Title": "THESSALIA TV",
+      "Image": "https://i.ibb.co/K7FMzZq/Thessalia-TV.png",
+      "Video": "https://ozovxg2t3b2c8m8g.streamruby.net/hls2/05/00392/joaxnffxr1wc_o/master.m3u8?t=V0InDjzdTR7WB46NlXwkDGz0vLkAO1meoiwH6QaI8lk&s=1766854176&e=32400&v=1472671349&i=79.127&sp=0",
+      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
+      "SKey": "Thessalia TV",
+      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
+      "EndString": "</a><spa",
+      "Start": 44,
+      "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
+      "isUnlocked": true,
+      "liveContent": true,
+      "liveDescription": false,
+      "enabledDrm": false,
+      "TwitchID": "livethess03",
+      "enabledTwitchFetching": false,
+      "requiredJavascriptExecution": false,
+      "availability": {
+        "US": true,
+        "DE": true,
+        "JP": true
+      },
+      "enabledEPGByAPI": false,
+      "t": "[K16] Ξένη Ταινία",
+      "d": "Ξένη ταινία.",
+      "s": 1722207600000,
+      "e": 1722213600000,
+      "headers": [
+        {
+          "name": "Referer",
+          "value": "https://streamruby.com/"
+        },
+        {
+          "name": "Origin",
+          "value": "https://streamruby.com"
         },
         {
           "name": "User-Agent",
