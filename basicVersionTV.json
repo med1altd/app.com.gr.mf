@@ -314,7 +314,7 @@
     {
       "Title": "ANT1",
       "Image": "https://iili.io/HviqlO7.png",
-      "Video": "https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/6415884360001/playlist_dvr.m3u8",
+      "Video": "https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8",
       "VideoOld": "https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna_3.m3u8",
       "LiveUrl": "https://www.antenna.gr/tvguide",
       "SKey": "Ant1",
