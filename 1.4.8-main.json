@@ -1,4 +1,3 @@
-
 {
   "Status": [
     {
@@ -149,11 +148,11 @@
   ],
   "Ads": [
     {
-      "APP_ID_AdMob": "ca-app-pub-1981269273781608~1547431711",
+      "APP_ID_AdMob": "ca-app-pub-8607202244251112~9949652023",
       "Banner_Id_AdMob": "",
       "Banner_Id_AdMobReal": "",
-      "Interstitial_Id_AdMob": "ca-app-pub-1981269273781608/6374346430",
-      "Interstitial_Id_AdMobReal": "ca-app-pub-1981269273781608/6374346430",
+      "Interstitial_Id_AdMob": "ca-app-pub-8607202244251112/6205676699",
+      "Interstitial_Id_AdMobReal": "ca-app-pub-8607202244251112/6205676699",
       "Rewarded_Id_AdMob": "",
       "Rewarded_Id_AdMobReal": "",
       "AppOpen_Id_AdMob": "ca-app-pub-3940256099942544/9257395921",
