@@ -644,7 +644,7 @@
     {
       "Title": "THESSALIA TV",
       "Image": "https://i.ibb.co/K7FMzZq/Thessalia-TV.png",
-      "Video": "https://thessaliachannel.gr:3339/live/thesstvlive.m3u8",
+      "Video": "https://thessaliachannel.gr:3871/live/thesstvlive.m3u8",
       "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
       "SKey": "Thessalia TV",
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
